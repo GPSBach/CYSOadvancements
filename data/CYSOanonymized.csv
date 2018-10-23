@@ -1,0 +1,702 @@
+,uni,instrument,gradyear,major,finaid,race,gender,m_employ,m_job,d_employ,homezip,school,s_address,s_state,s_zip,s_ensemble,pt,studentID
+0,Indiana University,Flute,2012,Flute Performance,,Caucasian,F,,,,60448.0,Lincoln-Way East High School,201 Colorado Ave,IL,60423.0,"XnanMadrigal Flutes, Pit Orch.nan",Whitney Bowden,0
+1,Northwestern,Flute,2012,Flute Performance/Ed. ,9.0,Asian,F,Key Lime Cove,,,60002.0,Antioch Community High School,1133 Main St,IL,60002.0,"XnanMarching Band, Jazz Band, Pit, Community Bandnan",Lauren Sprigg,1
+2,Columbia University/Juilliard ,Flute,2012,Undecided,,Caucasian,F,Murphy & Murphy,,Murphy & Murphy,60068.0,Maine South High School,1111 S Dee Rd,IL,60068.0,nannannanX,Donald Peck,2
+3,Indiana Univeristy ,Flute,2012,Flute Performance,,Caucasian,F,Sirva,Co-owner & Architect,Stewart Nosky Architacts,60440.0,Benet Academy,2200 Maple Ave,IL,60532.0,Xnannannan,Hideko Amano,3
+4,Lawrence University,Oboe,2012,Oboe Performance/Psychology,,Caucasian,F,House Wife,IT Executive,Excelon,60540.0,Matea Valley High School,1801 N Eola Rd,IL,60502.0,Xnannannan,Peggy Michel,4
+5,Williams College,Oboe,2012,Undecided,,Caucasian,F,University Of Chicago,,Adventist Hinsdale Hospital,60521.0,Hinsdale Central High School,5500 S Grant St,IL,60521.0,Xnannannan,Deb Stevenson,5
+6,NYU,Oboe,2012,Business,,Asian,F,,,,60047.0,Adlai E Stevenson High School,1 Stevenson Drive,IL,60069.0,nannannannan,Robert Morgan,6
+7,Oberlin,Clarinet,2012,Clarinet Performance,,Caucasian,F,Oasis Painting and Renovation,Owner,Oasis Painting and Renovation,60491.0,Lockport Township High School,1333 E 7th St,IL,60441.0,Xnannannan,Andrea DiOrio,7
+8,DePaul ,Clarinet,2012,Clarinet Performance,2.5,Latino Other,M,,,,60441.0,Plainfield CentraL High School,24120 W Fort Beggs Dr,IL,60544.0,Xnannannan,Mary Payne,8
+9,DePaul ,Clarinet,2012,Clarinet Performance,,Latino,M,DePaul University,Professor of Economics,DePaul University,60525.0,Lyons Township High School,100 S Brainard  Ave,IL,60525.0,XXJazz Ensemblenan,David Yandl,9
+10,Oberlin,Clarinet,2012,Clarinet Performance,,Caucasian,M,Nokia Siemens Networks,,Schwak Inc,60004.0,Buffalo Grove High School,1100 W Dundee Rd,IL,60089.0,XXnannan,Sergey Gutorov,10
+11,Harvard/NEC,Bassoon,2012,Math/Bassoon Performance,,Caucasian,M,MWW Corp.,Partner,William and Montgomery,60091.0,St Ignatius College Prep,1976 W Roosevelt Rd,IL,60608.0,nanXnannan,Ann Dufek,11
+12,DePaul ,Bassoon,2012,Bassoon Performance,9.0,Caucasian/Latino/Native American,F,Heritage Woods,,,60506.0,West Aurora High School,1201 West New York Street,IL,60506.0,Xnannannan,Alice Brown,12
+13,DePaul ,Bassoon,2012,Bassoon Performance,,Caucasian,F,Farragut Elementary School,Director of Food Services,Metrosouth Medical Center,60435.0,Joliet Central HighSchool,201 East Jefferson St,IL,60435.0,XXnannan,Allison Gunnink,13
+14,Northwestern,French Horn,2012,Composition,2.5,Caucasian Latino,M,PensionMetrics Ltd. ,Software Engineer,Research in Motion,60067.0,William Fremd High School,1000 S Quentin Rd,IL,60067.0,Xxnannan,Melody Velleuer,14
+15,Oberlin,French Horn,2012,Horn Performance,2.5,Caucasian,F,"Par Golf Supply, Inc.",IT DBA,Donlen Corp,60193.0,Schaumburg High School,1100 W Schaumburg Rd,IL,60194.0,XXnannan,Wanda Braden,15
+16,Washingon University in St. Louis,French Horn,2012,Undecided,,,F,Pianoforte Chicago,Owner,Pianoforte Chicago,60521.0,Hinsdale Central High School,5500 S Grant St,IL,60521.0,XXnannan,Nancy Fako,16
+17,UIC,Trumpet,2012,Trumpet Performance,1.0,Caucasian,M,Conrady Jr High School,Music Chair & Professor,Harper College,60477.0,Victor J Andrew High School,9001 W 171st St,IL,60487.0,Xnannannan,Matt Lee,17
+18,Carnegie Mellon,Trumpet,2012,Trumpet Performance,,,M,Home Maker,Professor of Medicine,Northwestern U/U of Wisconsin at Madison,60015.0,Deerfield High School,1959 Waukegan Rd,IL,60015.0,XXnannan,Bruce Daugherty,18
+19,USC (So. Cal.),Trumpet,2012,Trumpet Performance,,Caucasian,M,HSBC,,Simon's Tavern,60056.0,John Hersey High School,1900 E Thomas St,IL,60004.0,"XnanPit, Jazz Ens, Show choir bandnan",Chris O'Hara,19
+20,Northwestern,Trumpet,2012,Trumpet Performance,,Caucasian,M,Wood Dale School District #7,"Manager, Pattern Shop",Tempco Electric Heater Corp,60191.0,Fenton County High School,1000 West Green Street,IL,60106.0,Xnannannan,Kari P Lee,20
+21,Northwestern,Trombone,2012,Trumpet Performance,,Caucasian,M,District of Lake County,,Musician,60076.0,Niles North High School,9800 N Lawler St,IL,60077.0,Xnannannan,William Walsh,21
+22,Eastman ,Trombone,2012,Trombone Perforamance,1.5,Caucasian,M,,,,60564.0,Neuqua Valley High School,2360 95th St,IL,60564.0,"XnanJazz Ens, Symphony Orchnan",Mark Fisher,22
+23,Eastman ,Trombone,2012,Trombone Perforamance,8.5,Asian,M,,Manager,Lam Farm Inc,60477.0,Tinley Park High School,6111 West 175th St,IL,60477.0,Xnannannan,Tim Riordan,23
+24,Eastman ,Tuba,2012,Tuba Performance,7.5,Caucasian,M,,,,60513.0,Riverside Brookfield High School,160 Ridgewood Road,IL,60546.0,Xnannannan,Scott Tegge,24
+25,U of Michigan,Percussion,2012,Percussion Performance,,Caucasian,M,Documentation Solutions,Teacher,Woodstock District 200,60098.0,Woodstock North High School,3000 Raffel Rd,IL,60098.0,"XnanJazz Band, Pit, Drum Linenan",Sheri Dees,25
+26,NIU,Percussion,2012,Percussion Performance,3.0,Caucasian,M,,,,60007.0,James B Conant High School,700 E Cougar Trail,IL,60169.0,XnanChoirnan,Michael Kozakis,26
+27,Roosevelt,Percussion,2012,Percussion Performance,,Caucasian,M,Centers for Hand and Physical Rehabilitation,,Kraft,60464.0,Amos Alonzo Stagg High School,8015 W 111th Street,IL,60465.0,"XnanMarching Band, Wind Symphony, Perc Ensnan",Rick Urban,27
+28,University of Cincinnati ,Harp,2012,PreMed,,Caucasian,F,,Sr Vice President,Northern Trus Co,60189.0,Wheaton Warrenville South High School,1993 Tiger Trail,IL,60189.0,nanXnannan,Maria Luisa Rayan-Forero,28
+29,Peabody,Harp,2012,Harp Performance,,Caucasian,F,,,,60523.0,Downers Grove North High School,4436 Main Street,IL,60515.0,nanXnannan,Lillian Lau,29
+30,Eastman ,Violin,2012,Violin Performance,,Asian,M,Concentric Realty,Engineer,Lucent,60564.0,Waubonsie Valley High School,2590 Ogden Ave,IL,60504.0,nanXnannan,Gerardo Ribeiro,30
+31,U of I ,Violin,2012,Computer Engineering,1.0,Asian,M,Belcan Engineer,Engineer,Caterpillar Inc.,61615.0,Illinois Math and Science Academy,1500 W Sullivan Rd,IL,60506.0,nanXnannan,Drew Lecher,31
+32,NYU,Violin,2012,Business,10.0,Asian,M,Siemens,Engineer,Siemens,60010.0,Barrington High School,616 W Main St,IL,60010.0,nanXnannan,Nan Zhou,32
+33,DePaul ,Violin,2012,Violin Performance,2.5,Caucasian,F,Marketing Alternatives,Route Driver,Edward Don Co.,60148.0,Home School,,,,nannannannan,Marko Dreher,33
+34,NEC,Violin,2012,Violin Performance,,Asian,M,,Professor,Columbia College Chicago,60304.0,Oak Park River Forest High School,201 N Scoville Avenue,IL,60302.0,nanXnannan,Almita Vamos,34
+35,Berklee College of Music,Violin,2012,Violin Performance,,Caucasian,F,The Music Suite,Owner,Band for Today,60565.0,Naperville Central High School,440 W Aurora Ave,IL,60540.0,Xnannannan,Drew Lecher,35
+36,Amherst College,Violin,2012,Undecided,,Asian,F,,,,60089.0,Adlai E Stevenson High School,1 Stevenson Dr,IL,60069.0,nanXnannan,Injoo Choi,36
+37,Northwestern,Violin,2012,Neuro Biology,3.0,Asian,M,LARC,Software Engineer,Coventry Healthcare,60502.0,Metea Valley High School,1801 N Eola Rd,IL,60502.0,nanXnannan,Frank Lu,37
+38,U of I,Violin,2012,Business-Accouting/Finance,5.0,Asian,F,West Suburban Montessori School,Research Scientist,Yale University,60302.0,Oak Park River Forest High School,201 N Scoville Avenue,IL,60302.0,nanXnannan,Thomas Wermuth,38
+39,Brown University,Violin,2012,Human Biology,,Asian,F,MWRDGC,,,60007.0,James B Conant High School,700 E Cougar Trail,IL,60169.0,nanXnannan,Julie Bickel,39
+40,Western Michigan University,Violin,2012,Music Performance,,Caucasian,F,,Finance,Kellogg,60526.0,Lyons Township High School,100 S Brainard  Ave,IL,60525.0,nanXnannan,Blagomira Lipari,40
+41,U of I ,Violin,2012,Mechanical Engineering ,,Asian,M,,,,60532.0,Naperville North High School,899 N Mill Street,IL,60563.0,nannanWestern Springs STEnan,Nancy Jackson,41
+42,Southern Methodist University,Violin,2012,Violin Performance,,Caucasian,F,Betty Haag Academy of Music,Business Manager,Alcatel-Lucent Technologies,60005.0,Rolling Meadows High School,2901 Central Rd,IL,60008.0,nanXnannan,Betty Haag-Kuhnke,42
+43,Rice,Violin,2012,Violin Performance,5.0,Caucasian,F,Self/Peoria Public Schools,Research Engineer,CAT,61614.0,Richwoods High School,6301 North University Street,IL,60614.0,nanXnannan,Marcia Henry Liebenow,43
+44,Northwestern,Violin,2012,Violin Performance,,Asian/Caucasian,F,,,,60640.0,Northside College Prep High School,5501 N Kedzie Ave,IL,60625.0,nanXnannan,Gerardo Ribeiro,44
+45,Indiana University,Violin,2012,Violin Performance,1.5,Caucasian,F,Athletico,Pastor/North American Coordinator,University Bible Fellowship,60614.0,Southeast Academy,Online Education,,,nannannannan,Almita Vamos,45
+46,U of I ,Violin,2012,Undecided,,Asian,M,Alcatel-Lucent,Engineer,Argonne ,60564.0,Neuqua Valley High School,2360 95th St,IL,60564.0,nanXnannan,Drew Lecher,46
+47,UIC,Violin,2012,PrePharmacy,,Asian,F,,,,60565.0,Naperville Central High School,440 W Aurora Ave,IL,60540.0,nannannanX,Nan Zhou,47
+48,Rice,Violin,2012,Bio Chem.,,Asian,F,Argonne National Laboratory,,Cooper Vision,60517.0,Naperville North High School,899 N Mill Street,IL,60563.0,nanXnannan,Nan Zhou,48
+49,Juilliard,Viola,2012,Viola Performance,,Caucasian,F,Self Employed,Triathalon.Swim Coach/Investor,Self Employed,60010.0,Barrington High School,616 W Main St,IL,60010.0,nanXnannan,Desiree Ruhstrat,49
+50,U. of Minnesota Carlson School of Business,Viola,2012,Undecided,1.0,Caucasian,F,,,,60010.0,Barrington High School,616 W Main St,IL,60010.0,nanXnannan,Desiree Ruhstrat,50
+51,Amherst College,Viola,2012,Undecided,,Caucasian,M,AUSL,,Self Employed,60657.0,Whitney M Young Magnet High School,211 S Laflin St,IL,60607.0,nannannannan,Roland Freitag,51
+52,U of Michigan,Viola,2012,Music Perfomance/Ed. ,,Caucasian,F,,Lawyer,,60422.0,Homewood Flossmoor High School,999 Kedzie Ave,IL,60422.0,nanXChiornan,Nan Zhou,52
+53,DePaul ,Viola,2012,Viola Performance,,Caucasian,M,Pedersen Design LLC,Graphis Designer/Co Owner,Pedersen Design LLC,60502.0,Batavia High School,1201 Main Street,IL,60510.0,nanXnannan,Susan Starrett,53
+54,Illinois Wesleyan University,Viola,2012,Viola/ Music Performance,8.0,African American,M,Misericordia,,Unemployed,60643.0,Lincoln Park High School,2001 N Orchard St,IL,60614.0,nanXnannan,Minghuan Xu,54
+55,Northwestern,Viola,2012,Viola Performance/Engineering,,Caucasian,M,,,Enfinity Corporation,60502.0,Matea Valley High School,1801 N Eola Rd,IL,60502.0,nanXnannan,Susan Starrett,55
+56,University of Missouri St. Louis,Viola,2012,Viola Performance,7.0,Asian,M,Hideaway Country Club,,Lee Memorial Hospital,60451.0,Lincoln-Way West High School,21701 Gougar Road,IL,60451.0,nanXnannan,Steven Grant,56
+57,Yale University,Cello,2012,Undecided,,Caucasian,M ,Self Employed,Philosophy Professor,UIC,60202.0,Chicagoland Jewish High School,1095 Lake Cook Road,IL,60015.0,nannannanX,Blake Brasch,57
+58,Colburn,Cello,2012,Cello Performance,,Caucasian,M,Non-employed,MD,Emergency Medicine of Indiana,46614.0,Saint Joseph's High School,1441 North Michigan Street,IN,46617.0,nannannannan,Richard Hirschl,58
+59,Colburn,Cello,2012,Cello Performance,10.0,Caucasian,M,IRMCO Properties and Management Corp.,Attorney,Self Employed,60613.0,Latin School of Chicago,59 W North Blvd,IL,60610.0,nannannannan,Richard Hirschl,59
+60,Cornell University,Cello,2012,Electrical and Computer Engineering,3.0,Asian,F,Purdue University North Central,Professor,Purdue University North Central,46385.0,Valparaiso High School,2727 N Campbell St,IN,46385.0,nanXnannan,,60
+61,U of Connecticut,Cello,2012,Physiology/Neurobiology,,Caucasian,F,,Project Manager,Northrop Grumman Corp.,60010.0,Barrington High School,616 W Main St,IL,60010.0,nanXnannan,Nazar Dzhuryn,61
+62,Butler,Bass,2012,Music Ed. ,9.0,Latino.other,M,GDC,,,46526.0,Goshen High School,401 Lincolnway East,IN,46526.0,XXJazz Bandnan,Laura Johnson,62
+63,Washingon University in St. Louis,Bass,2012,Pre-Med,,Caucasian,F,University of Chicago Hospitals,Professor of Anesthesia & Critical Care,University of Chicago Hospitals,60546.0,Riverside Brookfield High School,160 Ridgewood Rd,IL,60546.0,Xnannannan,Judith Hanna,63
+64,U of I ,Bass,2012,Bass Performance,,Caucasian,M,Home Maker,,Cushman and Wakefield,60137.0,Glenbard West High School,670 Crescent Blvd,IL,60137.0,nanXJazz Bandnan,Andrew Raciti,64
+65,UIC,Bass,2012,Undecided,9.0,Caucasian,F,National Lift Truck Inc,,Unemployed,60181.0,Willowbrook High School,1250 S Ardmore,IL,60181.0,XXnannan,Michael Lewis,65
+66,Harold Washington College,Bass,2012,Undecided,,,M,,,Self Employed,60641.0,Harold Washington College,,,,nannannannan,Greg Sarchet,66
+67,Oberlin College,Flute,2013,Psychology and Flute Performance,,Caucasian,Female,University of Chicago,Professor of Statistics,University of Chicago,60615,University of Chicago Laboratory High School,1362 East 59th Street,IL,60637,Other,SusanLevitin,67
+68,Indiana University,Flute,2013,Flute Performance,,Caucasian,Male,"OLB Catholic Parish, Northbrook, IL",Director of Music Ministries,"St. Ignatius Catholic Church, Chicago",60626,Loyola Academy,1100 Laramie Avenue,IL,60091,Band,AlyceJohnson,68
+69,University of Missouri,Flute,2013,Flute Performance,,African-American,Male,Retired,Project Manager ,Presence Health ,60461,Marian Catholic High School,700 Ashland Avenue ,Illinois,60411,Band,Yaocheng (Jillian)Yu,69
+70,Northwestern University,Oboe,2013,Oboe Performance/Computational Linguistics,8.5,Caucasian,Female,not employed outside the home,owner,Quality Printing Service,60441,Lockport Township High School,1333 E. 7th Street,IL,60441,"Band
+Other",CarlSonik,70
+71,Illinois State University ,Oboe,2013,Elementary Education,,Caucasian,Female,None,Project Manager,BP,60565,Neuqua Valley High School,2360 95th Street ,Illinois,60564,"Band
+Orchestra",AllisonBaker,71
+72,Vanderbilt University,Oboe,2013,Oboe Performance,,Caucasian,Male,Not applicable,President/Owner,Shapiro Wholesale,60013,Cary-Grove High School,2208 Three Oaks Road,Illinois,60013,Band,ShawnaLake,72
+73,New York University,Oboe,2013,Undeclared,,Asian,Male,None,Physician,Suburban Endocrinology,60010,Barrington High School,616 West Main Street,IL,Barrington,"Band
+Orchestra
+Other",Robert Morgan,73
+74,Eastman,Clarinet,2013,Clarinet Performance,5.5,Caucasian,Male,CNA,marketing,self-employed,60201,Evanston Township High School,1600 Dodge Avenue,Illinois,60204,"Band
+Orchestra",BarbaraDrapcho,74
+75,University of Illinois,Bassoon,2013,Bassoon Performance,,Caucasian,Male,Chicago Board of Trade,Theater Manager,Governor State University,60324,Joliet Central,210 E. Jefferson St.,Illinois,60435,"Band
+Orchestra",,75
+76,University of Illinois,Bassoon,2013,Bassoon Performance,,Latino,Male,,Bus Driver,Double Tree Hotel,60169,Hoffman Estates High School,1100 W. Higgings Rd. ,IL,60169,"Band
+Other",GerikFon-Revutzky,76
+77,Utah State University,Bassoon,2013,Bassoon Performance/Conservation and Restoration Ecology,,Caucasian,Female,Self,IT Director,Allant,60540,Plainfield Central High School,24120 W. Fort Beggs Drive,IL,60544,"Band
+Other",KimRichter,77
+78,University of Illinois,French Horn,2013,Computer Science and Horn Performance,2.0,Caucasian,Male,,Project Manager,Fermi Lab,60467,Carl Sandburg High School,13300 S. LaGrange Road,IL,60462,"Band
+Orchestra",SaraKaplan,78
+79,Oberlin College,French Horn,2013,Composition,6.0,Caucasian,Male,Kirby School District 140,Auto Mechanic,Bridgestone/Firestone,60487,Victor J. Andrew High School,9001 W. 171st Street,IL,60487,I will not participate in school ensembles.,AmandaKarwoske,79
+80,Indiana University,French Horn,2013,Music Education,,Caucasian,Female,Sam's Club,Sales Operations,Kraft Foods,60061,Vernon Hills High School,145 Lakeview Parkway,IL,60061,"Band
+Orchestra",BrendaKublank,80
+81,Butler University,French Horn,2013,Music Education,,Caucasian,Male,Phoenix Woodworking,Vice President of Sales,Jelmar,60014,Crystal Lake South High School,1200 McHenry Ave,IL,60014,Band,RussHenning,81
+82,DePaul University,Trumpet,2013,Trumpet Performance,,Latino,Male,ressurection health care,business director,UOP,60047,adlai e. stevenson high school,1 stevenson drive,illinois,60069,"Band
+Orchestra",rossbeacraft,82
+83,Curtis,Trumpet,2013,Trumpet Performance,3.5,Caucasian,Male,Central DuPage Hospital,Computer programmer,College of DuPage,60187,Franklin Home School,220 E Hawthorne Blvd,IL,60187,Other,TerrySchwartz,83
+84,Berklee College of Music,Trumpet,2013,GD/Songwriting,2.0,Caucasian,Female,St. Raphael Catholic Church,music director/liturgist,St. Raphael Catholic Church,60563,Metea Valley High School,1801 N Eola Rd,IL,60502,"Band
+Orchestra
+Other","Mark Ponzo, Dr.",84
+85,Cleveland Institute of Music,Trumpet,2013,Trumpet Performance,7.0,Caucasian,Male,Self-Employed,Technologist,Apple,60201,Evanston Township High School,1600 Dodge Avenue,IL,60204,"Band
+Orchestra",JordanOlive,85
+86,Michigan State,Trombone,2013,Music Education,3.0,Caucasian,Female,West Aurora School District 129,Financial Consultant,Thrivent Financial for Lutherans,60542,West Aurora High School,1201 West New York Street,Illinois,60506,"Band
+Other",ReedCapshaw,86
+87,Julliard,Trombone,2013,Trombone Performance,4.5,Caucasian,Male,Kirby Lester,,,60062,Glenbrook North,2300 Shermer Road,Illinois,60062,"Band
+Orchestra",ArthurLinsner,87
+88,Julliard,Trombone,2013,Trombone Performance,2.0,Caucasian,Male,Walgreens,Painter,Shamrock Decorating Co.,60477,Tinley Park High School,6111 W. 175th St.,IL,60477,Band,TimothyRiordan,88
+89,Roosevelt University or DePaul University,Tuba,2013,Tuba Performance,,Caucasian,Male,Next Recovery Source,Senior Manager of facilities national support,Discover Financial,60517,Downers Grove South,1436 Norfolk St,Illinois,60616,"Band
+Orchestra",ScottTegge,89
+90,Lawrence Conservatory,Tuba,2013,Tuba Performance,8.0,Caucasian,Male,mom,mechanic,Hawk Ford,60462,Carl Sandburg,13330 S. LaGrange Road,Il,60462,"Band
+Orchestra
+Other",ScottTegge,90
+91,Eastman,Percussion,2013,Percussion Performance,,Caucasian,Male,Self,,,60002,Lakes Community High School,1600 Eagle Way,Illinois,60046,Band,DaveEisenreich,91
+92,DePaul University,Percussion,2013,Percussion Performance,1.5,Latino,Male,Hospital,const. worker,plote const.,60194,Schaumburg,1100 W schaumburg rd,IL,60194,"Band
+Orchestra
+Other",Michael Kozakis,92
+93,Northwestern University,Percussion,2013,Percussion Performance,,Caucasian,Male,Grove Partners,General Manager,847 404-4769,400 S. Prospect,Loyola Academy,1100 Laramie Ave.,IL,60093,Band,DaveThe Pappas Family,93
+94,Cornell University ,Violin,2013,Biology,,"Asian
+Caucasian",Female,University of Chicago,Physician,Self employed,60614,University of Chicago Laboratory Schools,1362 E 59th St,Illinois,60637,Other,NinaSaito,94
+95,New England Conservatory,Violin,2013,Violin Performance,,Caucasian,Female,"Deloitte Touche Tohmatsu, LLP",unemployed,unemployed,60502,Metea Valley High School,1801 North Eola Road,IL,60502,Orchestra,CyrusForough,95
+96,Notre Dame,Violin,2013,Business,,"Caucasian
+Latino",Male,Franklin Park School District 84,Faculty,Northern Illinois University,60304,Oak Park River Forest,201 N. Scoville Ave.,IL,60302,"Orchestra
+Other",BernardZinck,96
+97,Williams College,Violin,2013,Music/Computer Science,,Caucasian,Male,Northwestern University,Deputy appellate defender,State of Illinois,60304,Oak Park and River Forest High School,201 N. Scoville Ave.,Illinois,60302,"Orchestra
+Other",JenniferCappelli,97
+98,Lake Forest College,Violin,2013,Pre-Med/Physics,,Caucasian,Male,Coldwell Banker,Instructor,Music and Arts,60189,Benet Academy,2200 Maple Ave.,IL,60532,"Orchestra
+Other",DrewLecher,98
+99,Indiana University,Violin,2013,Violin Performance,,Caucasian,Female,URS,Geologist,Environ,60093,New Trier High School,385 Winnetka Ave,IL,60093,Orchestra,DesireeRuhstrat,99
+100,Case Western Reserve University,Violin,2013,Pre-med/biology/violin education,,Asian,Female,Motorola,Branch Sales Manager,Genera Corps,60540,Naperville North High School,899 Mill Street ,IL,60563,Orchestra,NanZhou,100
+101,University of Illinois,Violin,2013,,,Asian,Male,KPMG,Senior Partner,Metcalf Law Group,60193,James B. Conant High School,700 East Cougar Trail,IL,60169,Orchestra,BettyHaag-Kuhnke,101
+102,Johns Hopkins University,Violin,2013,Chemical Engineering,,,Female,IBM,,,60126,York Community High School,355 W. St. Charles Rd.,IL,60126,Orchestra,JenniferCappelli,102
+103,Indiana University,Violin,2013,Violin Performance,,Asian,Female,,business owner,,60521,Hinsdale Central High School,5500 Grant St,IL,60521,"Orchestra
+Other",CyrusForough,103
+104,Northwestern University,Violin,2013,Violin Performance/English Literature,,Caucasian,Female,,President,Cat In The Hat Trading Corp,60657,Northside College Preparatory High School,5501 North Kedzie Avenue,Illinois,60625,Orchestra,StaciaSpencer,104
+105,DePaul University,Violin,2013,Viola Performance/ Digital Cinematography,6.0,"Asian
+Caucasian",Male,,Fleet Manager,J B Hunt Transport,60466,Lifting Praise Homeschool,116 Westwood Drive,IL,60466,Orchestra,DesireeRuhstrat,105
+106,Northwestern University,Violin,2013,Biomedical Engineering,,Asian,Female,Food and Drug Administration,Project Engineer,"Netgear, Inc.",60540,Metea Valley HS,1801 North Eola Road,IL,60502,Orchestra,DrewLecher,106
+107,Washington University in St. Louis,Violin,2013,Chemistry,,Asian,Female,NTT Data,Manager,AT&T ,60625,Northside College Prep High School,5501 N. Kedzie Ave. ,IL,60625,I will not participate in school ensembles.,Nan Zhou ,107
+108,Vanderbuilt University,Viola,2013,Viola Perfomance/Mathematics,5.5,Asian,Female,none,none,Retired,60487,Lincoln-Way North H.S.,19900 S. Harlem Ave.,il,60423,Other,DesireeRuhstrat,108
+109,Northwestern University,Viola,2013,Viola Performance,,Asian,Male,KMI International Corp.,President,KMI International Corp.,60101,Illinois Mathematics and Science Academy,1500 Sullivan Rd.,IL,60506,Orchestra,Li-KuoChang,109
+110,Cleveland Institute of Music,Viola,2013,Viola Performance ,,Caucasian,Female,URS ,Geologist,Environ,60093,New Trier High School,385 Winnetka Ave.,IL, 60093,Orchestra,DesireeRuhstrat,110
+111,Yale ,Viola,2013,Biomedical Engineering,4.5,Caucasian,Female,,residential construction,Hartz Construction,60462,Carl Sandburg High School,13300 S. LaGrange Rd.,IL,60462,"Orchestra
+Other",MattMantell,111
+112,Undecided,Viola,2013,Undeclared,,Asian,Male,Chinese-American Museum of Chicago,Principal,ECR,60076,Niles North High School,9800 North Lawler St.,IL,60077,Orchestra,Ying Chai,112
+113,College of William and Mary,Viola,2013,Undeclared,,Caucasian,Female,JPM Chase,Lawyer,State of Illinois,60526,Lyons Township High School,100 S. Brainard Ave ,Illinois,60525,Orchestra,MichaelHining,113
+114,Vandercook College,Viola,2013,Music Education,,African-American,Female,Chicago Board of Education,Network Administrator,Zack's Investment,60640,Walter Payton College Prep,1034 North Wells,IL,60610,I will not participate in school ensembles.,RebekahCope,114
+115,Oberlin College,Viola,2013,Viola Performance,,Caucasian,Male,Nordstrom Rack,Sales,Hormel,60564,Neuqua Valley High School,2360 95th Street  ,IL,60564,Orchestra,Desiree/PeterRuhstrat/Slowik,115
+116,MIT,Viola,2013,Undeclared,4.0,Asian,Female,Wayne State University,Research Professional,University of Chicago,60637,University of Chicago Laboratory Schools,1362 E. 59th St.,Illinois,60637,Other,PatrickRustandi,116
+117,Northwestern University,Cello,2013,Biology,,"Asian
+Caucasian",Male,alcatel-lucent,engineer,alcatel-lucent,60565,neuqua valley high school,2360 95th street,il,60564,Other,davidcunliffe,117
+118,Cleveland Institute of Music,Cello,2013,Cello Perfomance ,,Caucasian,Female,Lloyd Lemna Design,Attorney,Walsh Construction,60189,Wheaton Warrenville South High School,1993 Tiger Trail,IL,60189,Band,CathyKuna,118
+119,University of Michigan,Cello,2013,Undeclared,,Asian,Female,Alcatel-Lucent Technologies,Distinguished Member of Technical Staff,Alcatel-Lucent Technologies,60565,Neuqua Valley High School,2360 95th Street,IL,60564,Orchestra,TanyaCarey,119
+120,Carnagie Mellon,Cello,2013,Cello/Neuroscience,3.0,Caucasian,Female,,owner,The EDM Dept. Inc.,60187,Wheaton North HS,One Falcon Way,IL,60187,"Orchestra
+Other",GildaBarston,120
+121,UIUC,Cello,2013,Biology,,Asian,Female,University of Chicago,,Catalyst,60615,University of Chicago Laboratory Schools,1362 E.59th St.,IL,60637,Other,HansJensen,121
+122,Roosevelt University,Bass,2013,Bass/Education,5.0,"Asian
+Caucasian",Male,I Do Designer Bridal Consignment,911 Emergency Officer,City of Chicago 911 Emergency,60634,Lane Tech College Prep,2500 W. Addison,Illinois,60618,"Band
+Orchestra
+Other",JamesRoss,122
+123,Princeton University,Bass,2013,Math,,,Male,Self,Chief Technology Officer,SG2,60093,New Trier High School,385 Winnetka Avenue,IL,60093,"Band
+Orchestra",AntonHatwich,123
+124,Indiana University,Bass,2013,Music Composition,,Caucasian,Female,Naperville Public Library,CEO,TWG,60564,Neuqua Valley,2360 95th St,IL,60564,"Band
+Orchestra",PhillipSerna,124
+125,University of Chicago,Oboe,2013,Psychology,,Caucasian,Female,Environmental Protection Agency,Senior Casualty Adjuster,McClaren's Young International,60430,Homewood Flossmoor Community High School,999 Kedzie Avenue,Illinois,60422,"Band
+Orchestra
+Other",Cassandra Halliar,125
+126,University of Arizona,Clarinet,2013,Engineering,,Caucasian,Male,American Airlines,Pilot,Southwest Airlines,60464,Amos Alonzo Stagg High School,8015 W. 111th Street,IL,60464,Band,JackMarquardt,126
+127,DePaul University,French Horn,2013,Horn Performance,,Caucasian,Female,Little Blessings Preschool,Maintenance Mechanic ,VVF Industries,60564,Neuqua Valley HS,2360 95th Street,IL,60564,Band,DanO'Connell,127
+128,DePaul University,Trumpet,2013,Trumpet Performance,5.0,Caucasian,Male,Ajilon,Tooling Engineer,UGN,60005,Rolling Meadows High School,2901 W Central Road,IL,60008,"Band
+Orchestra
+Other",BryanMajure,128
+129,Brigham Young University,Percussion,2013,Percussion Performance,,Caucasian,Male,Self,Director of Innovation,Valspar,60563,Naperville North High School,899 North Mill Street,IL,60563,"Band
+Orchestra
+Other",BenWahlund,129
+130,Northwestern University,Harp,2013,Harp Performance,4.0,Caucasian,Female,First Student,Mechanical Supervisor,Canadian Pacific Railway,60164,Walther Lutheran H.S.,900 Chicago Ave.,IL,60160,"Band
+Orchestra
+Other",SharonCrabbe,130
+131,"University of Illinois, Urbana",Violin,2013,"Biology major, Music minor",,Caucasian,Male,Nancy hays Entertainment,Chief Deputy Sheriff,Cook County,60631,St. Ignatius College Prep,1076 W. Roosevelt Rd.,IL,60607,"Orchestra
+Other",DomnicaLungu,131
+132,Carnegie Mellon University,Violin,2013,Biology,,Asian,Female,RIT7,Application Engineer,Bank of America,60564,IMSA,1500 Sullivan Rd,IL,60506,Orchestra,EunyoungLee,132
+133,Wellesley College,Violin,2013,Economics,3.0,Asian,Female,Rush University Medical Center,Medical Scientist,Rush University Medical Center,60608,Walter Payton College Prep,1034 N. Wells St.,IL,60610,Orchestra,Daniel Kwok,133
+134,Creighton University,Violin,2013,Medical Mathematics,,Caucasian,Female,Regional Family Health Center,Family Physician,Regional Family Health Center,61443,Wethersfield High School,439 Willard Street,IL,61443,Other,DainaVolodka,134
+135,Indiana University,Viola,2013,Business,,Caucasian,Female,The Best Salon,manager,CBOE,60089,Buffalo Grove High School,1100 W Dundee Rd,IL,60089,Orchestra,ShihoToyanaga,135
+136,New York University,Viola,2013,Business,,Asian,Female,Siemens,Engineer,Siemens,60010,Barrington High School,616 W Main St,IL,60010,Orchestra,NanZhou,136
+137,Bradley University,Viola,2013,Music Education,,Caucasian,Female,Provena Senior Services,,,60462,Carl Sandburg High School,13300 S LaGrange Road,IL,60462,"Orchestra
+Other",MattMantell,137
+138,University of Pennsylvania,Cello,2013,Urban Studies and Economics,,African-American,Female,Gottlieb Health and Fitness Center,"Director, Multi-Media",Trinity United Church of Christ,60302,Oak Park River Forest High School,201 North Scoville Ave.,IL,60302,Orchestra,JoceylnButler,138
+139,University of Southern California,Bass,2013,International Relations,,Caucasian,Female,Crown Point Community School Corporation,,Retired,46307,Crown Point High School,1500 S Main Street,IN,46307,"Orchestra
+Other",PhillipSerna,139
+140,"University of Illinois, Urbana",Viola,2013,Engineering,,"Caucasian
+Other",Female,Self,Boss ,Rehkemper ID,60610,University of Chicago Lab Schools,1362 E. 59th St,IL,60637,I will not participate in school ensembles.,TerranceGray,140
+141,Art Institute of California,Cello,2013,Graphic Design,6.0,Latino,Female,Mt. Sinai Hospital,none ,none ,60625,Amundsen High School,5110 N. Damen Ave.,IL,60625,Orchestra,none none ,141
+142,"Miami University of Oxford, Ohio",Violin,2014,"Pre-med, Biochemistry/Violin Performance",,Caucasian,Female,None,Physician,LaPorte Hospital,60521,Hinsdale Central High School,5500 South Grant Street,IL,60521,Orchestra,Chikako Miyata,142
+143,University of Illinois Urbana - Champaign,Viola,2014,Viola Performance/Education,7.0,"African-American
+Native American",Male,Chicago Transit Authority ,None,None,60458,Argo Community High School,7329 West 63rd Street ,IL,60501,Orchestra,None None,143
+144,New England Conservatory,Percussion,2014,Percussion Performance,2.0,Caucasian,Male,YNS,Broker,Jefferies,60538,home,1735 Balmoral Lane,Illinois,60538,Other,VernSpevak,144
+145,Eastman School of Music,Tuba,2014,Performance,2.5,Caucasian,Male,Maercker School District 60,Commercial Real Estate Manager,Jones Lang LaSalle,60559,Downers Grove North,4436 Main St,Illinois,60515,"Band
+Orchestra
+Other",ScottTegge,145
+146,Yale,Violin,2014,Economics,,Asian,Female,Self-employed,President,Self-employed,60564,Neuqua Valley High School,2360 95th Street,IL,60564,Orchestra,DesireeRuhstrat,146
+147,Northwestern University,Violin,2014,Physics/Piano Performance,,Asian,Female,,Associate Professor,Northwestern,60563,Naperville North,899 North Mill Street,IL,60563,I will not participate in school ensembles.,FrankLu,147
+148,Northwestern University,Viola,2014,Viola Performance & Undecided,5.0,Asian,Male,Homemaker,Executive Director,Korean American Community Services,60091,New Trier High School,385 Winnetka Ave,Illinois,60093,"Orchestra
+Other",Roland Vamos,148
+149,University of Illinois Urbana - Champaign,Tuba,2014,Engineering Physics,,Caucasian,Male,Christ Church Winnetka,organist/choirmaster,Christ Church Winnetka,60091,New Trier High School,385 Winnetka Ave,IL,60093,"Band
+Orchestra
+Other",JaredBulmer,149
+150,Northwestern University,Violin,2014,Biomedical Engineering,,Asian,Female,,Engineer,Radvista Corporation,60061,Vernon Hills High School,145 Lakeview Parkway,IL,60061,Orchestra,DanielGolden,150
+151,Roosevelt University - Chicago College of Performing Arts,Cello,2014,Cello Performance,10.0,Caucasian,Male,Laporte Community School Corporation,,,46304,Chesterton High School,2125 South 11th Street,IN,46304,Orchestra,RichardHirschl,151
+152,Ballstate University,Violin,2014,Telecommunications/Political Science,2.0,Caucasian,Female,homemaker,CPA,Self-employed,60546,Riverside Brookfield H.S.,160 Ridgewood Ave,IL,60546,Orchestra,MichaelHining,152
+153,Northwestern University,Viola,2014,Applied Math,,Caucasian,Female,,Managing Director,Mesirow Financial,60187,Wheaton North,701 W Thomas St,IL,60187,Orchestra,StevenSjobring,153
+154,Cornell University,Violin,2014,"Biology, Health, Society/Air Force ROTC",,Asian,Male,,General Manager,Interstate Hotels and Resorts,6065,Naperville Central High School,440 West Aurora Avenue,Il,60540,I will not participate in school ensembles.,IlyaKaler,154
+155,Lawrence University,Percussion,2014,"Percussion Performance, Music Education",,Caucasian,Male,EPI Tecnologies,Business Systems Analyst V,"W.W. Grainger, Inc.",60046,Lakes Community High School,1600 Eagle Way,IL,60046,"Band
+Other",BrianMassimo,155
+156,Miami University  ,Violin,2014,Journalism,,Caucasian,Female,none,Medical Sales,GE Healthcare,60137,Benet Academy,2200 Maple Avenue,Illinois,60532,Orchestra,NanZhou,156
+157,Northwestern University,Harp,2014,Harp Performance,,Caucasian,Female,,Project Manager,Sargent & Lundy,60134,Geneva Community High Schooll,416 McKinley Ave.,IL,60134,"Band
+Orchestra",Laura Fako-Utley,157
+158,Waubansi,Violin,2014,Composition,,,Male,ola@hwwd.com,leo@pevex.com,leo@pevex.com,60510,Heska Homeschool,115 South River Street,IL,60510,Orchestra,SimonneTingley,158
+159,Brown University,Viola,2014,Computer Science,,"Asian
+Caucasian",Male,Alcaltel-Lucent,R&D Manager,Alcatel-Lucent,60565,Naperville Central High School,440 West Aurora Ave.,IL,60540,I will not participate in school ensembles.,EmilyPuntuzs,159
+160,Loyola University,Oboe,2014,Nursing,,Caucasian,Female,,gastroenterologist,self-employed,60564,Neuqua Valley High School,2360 95th Street,Illinois,60564,"Band
+Orchestra",AllisonBaker,160
+161,University of Iowa,Cello,2014,Biochemistry ( Pre-med),5.0,Asian,Male,unemploy,Director,B&K Precision,60532,Wheaton Warrenville South High School,1993 Tiger Trail  ,IL,60189,Orchestra,MarkLekas,161
+162,Eastman School of Music,Bass Trombone,2014,Performance,,Caucasian,Male,,operations manager,"guavatech, inc.",60477,tinley park h.s.,6111 175th St,il,60477,Band,timriordan,162
+163,Princeton University,French Horn,2014,Engineering,0.0,Asian,Female,Takeda,Manger,Abbvie,60031,Warren Township High School,34090 Almond Road,IL,60031,Band,JenniferCrosby,163
+164,Northwestern University,Clarinet,2014,Integrated Science and Chemistry,,Caucasian,Male,"Fullerton Engineering Consultants, Inc.",Contractor,Self-employed,60004,Buffalo Grove High School,1100 W. Dundee Rd.,IL,60089,"Band
+Orchestra",DarleenCarl-Beck,164
+165,College of DuPage,Trumpet,2014,Undecided,,Caucasian,Male,Hlustik Huizenga Williams & Vander Woude Ltd.,Engineer,Grayhill,60137,Glenbard South,23W200 Butterfield Rd,IL,60137,"Band
+Orchestra
+Other",LevGarbar,165
+166,University of Illinois Urbana - Champaign,Trumpet,2014,Jazz Studies & Trumpet Performance,,Caucasian,Male,,Customer Support Manager,Intel ,60134,Geneva Community High School,416 McKinley Avenue,IL,60134,"Band
+Orchestra
+Other",MarkBaldin,166
+167,Conservatory of Paris - France,Flute,2014,Flute Performance,,Caucasian,Female,Self-Employed,Plant Manager,Bongrain,60657,Lincoln Park High School ,2001 North Orchard Street,Illinois,60614,"Band
+Orchestra",JamesBrinkmann,167
+168,University of Michigan,Piano,2014,Performance,0.0,Asian,Female,Hyen Lee,Vice President- Asia Marketing,AON,60564,Neuqua Valley High School,2360 95th St ,IL,60564,Band,James Giles,168
+169,University of Illinois,Cello,2014,Electrical Engineering,,Asian,Male,PC TEL ,,,60490,Neuqua Valley High School,2360 95th Street,IL,60564,Orchestra,BrianGaona,169
+170,University of Michigan,French Horn,2014,Biomedical Engineering & Horn Performance,,Caucasian,Female,BP,Development Manager,BP,60187,Wheaton North High School,701 W Thomas St,IL,60187,Band,ChrisScotellaro,170
+171,Augustana College,French Horn,2014,Creative Writing & Horn Performance,4.0,Caucasian,Female,Harper College / College of Lk C,Assoc Environmental Scientist,Weston Solutions,60074,Palatine High School,1111 Rohlwing Road,IL,60074,Band,Lisavon Pechmann,171
+172,Northwestern University,Oboe,2014,Communications,,Asian,Female,University of Chicago,Professor,University of Chicago,60615,University of Chicago Laboratory High School,1362 East 59th Street,IL,60637,I will not participate in school ensembles.,NaomiBensdorf-Frisch,172
+173,Northwestern University,Clarinet,2014,Clarinet Performance,,Caucasian,Male,Self-Employed,Real Estate,Self-Employed,60029,Glenbrook South High School,4000 W. Lake Ave.,IL,60025,"Band
+Orchestra",SteveCohen,173
+174,University of Notre Dame,Violin,2014,Civil Engineering & Violin Performance(Dual Degree),,Caucasian,Male,Self Employed,Owner,"Michuda Construction, Inc.",60423,Lincoln-Way East,201 Colorado Avenue,IL,60423,Other,MatthewMantell,174
+175,University of Chicago,Cello,2014,Physics(Pre-medical Studies),6.0,"Asian
+Caucasian",Male,Homemaker,Assistant Director of Utilities,University of Illinois at Chicago,60516,Downers Grove South High School,1436 Norfolk Street,IL,60516,Orchestra,NazarDzhuryn,175
+176,Manhattan School of Music,Trumpet,2014,Trumpet Performance,6.5,Other,Male,Lurie Children's Hospital  of Chicago,IT Systems Engineer,Lurie Children's Hospital of Chicago ,60126,York High School,355 W. St Charles Ave,IL,60126,I will not participate in school ensembles.,MattLee,176
+177,University of Chicago,Viola,2014,Economics,,Asian,Male,Unemployed,CEO,Wanxiang,60010,Barrington High School,310 E James Street,IL,60010,Orchestra,ZhouNan,177
+178,Princeton University,Violin,2014,Operations Research and Financial Engineering,,Asian,Female,,options trader,Self-employed,60611,U of Chicago Laboratory High School,1362 E. 59th St.,IL,60637,I will not participate in school ensembles.,DesireeRuhstrat,178
+179,University of Iowa,Viola,2014,Education,,Caucasian,Female,Adventist,General Manager,Ryerson,60189,Wheaton Warrenville South HS,1993 Tiger Trail,IL,60189,Orchestra,EmilyPuntuzs,179
+180,Case Western Reserve University,Bassoon,2014,Bassoon Performance & Engineering,,Asian,Male,Priya Padmaraj,Associate Vice President,HCL America,60502,Metea Valley High School,1801 N Eola Rd,Illinois,60502,"Band
+Orchestra",AliceBrown,180
+181,DePaul University,French Horn,2014,Horn Performance/Performing Arts Management,2.5,Caucasian,Female,united airlines,dockman,YRC,60436,Joliet West Hugh School,708 N Larkin Ave,iL,60435,"Band
+Orchestra",PauletteVelasquez ,181
+182,Northwestern University,Bassoon,2014,Bassoon Performance ,5.0,Caucasian,Female,retired,retired,retired,60563,Naperville North High School,899 North Mill St.,IL,60563,"Band
+Other",KimberlieRichter,182
+183,Juilliard ,Viola,2014,Viola Performance,10.0,Caucasian,Female,The Mx Group,Financial Director,NiSource,60467,Mother McAuley Liberal Arts High School,3737 West 99th Street,IL,60655,Orchestra,DesireeRuhstrat,183
+184,University of Illinois at Chicago,Viola,2014,Biology(Premend) (GPPA - BS/MD),,Caucasian,Female,Alverno Clinical Labs,Professor,College of Dupage,60540,Metea Valley High School,1801 N. Eola Rd,IL,60502,Orchestra,KatieHeise,184
+185,Los Angeles Community College,Bassoon,2014,Liberal Arts,,Caucasian,Male,Rush Copley Medical Center,Accountant,School District 131,60506,West Aurora High School,1201 New York St,IL,60506,"Band
+Other",AliceBrown,185
+186,Olin College of Engineering,Flute,2014,Mechanical Engineering,,Caucasian,Female,none,none,none,60645,Homeschool,2219 W. Arthur,IL,60645,I will not participate in school ensembles.,MeretBitticks,186
+187,Bowdin College,Trombone,2014,Neuroscience,,Caucasian,Male,Open Communities,Associate Research Fellow,AbbVie,60091,New Trier,385 Winnetka Avenue,IL,60093,"Band
+Orchestra
+Other",SteveHorne,187
+188,Not going to College,Bass,2014,,,Caucasian,Male,Burlington Coat Factory,Sr. Solution Consultant,Adobe,60120,Schaumburg High School,1100 W. Schaumburg Rd,IL,60194,"Band
+Orchestra
+Other",Steve Reichelt,188
+189,Indiana University - Jacobs School of Music,Violin,2014,Viola Performance,10.0,Caucasian,Female,William Harris Lee,Editorial Director,Carus Publishing Company,60605,Home school,720 S Dearborn St. #201,IL,60605,I will not participate in school ensembles.,StaciaSpencer,189
+190,Year off,Viola,2014,,,"Asian
+Caucasian",Female,Oak Park Public Library,Programmer,University of Chicago,60304,Oak Park River Forest High School,201 N Scoville Ave ,IL,60302,Orchestra,MichaelHining,190
+191,Case Wester Reserve,French Horn,2014,Chemistry and music?,,Caucasian,Female,,finance,cme group,60137,Glenbard West HIgh School,670 Crescent Blvd.,IL,60137,"Band
+Orchestra
+Other",AmandaKarwoske,191
+192,Indiana University - Jacobs School of Music,Percussion,2014,Percussion Performance,,Caucasian,Male,Franciscan Alliance St. James,Automotive Tech,Self,60466,Marian Catholic High School,600 Ashland Avenue,Illinois,60411,Band,ChristopherJones,192
+193,University of Illinois Urbana - Champaign,Violin,2014,Mechanical Engineering,10.0,Asian,Male,Motorola Mobility,Professor of Biology and Nutrition,Truman College,60645,Whitney M. Young Magnet High School,211 S. Laflin Ave.,IL,60607,"Orchestra
+Other",XingwuWang,193
+194,University of Illinois Urbana - Champaign,Violin,2014,Bioengineering,3.0,Asian,Male,USPTO,Examiner,USPTO,60565,Naperville Central High School,440 West Aurora Avenue,Illinois,60540,I will not participate in school ensembles.,DesireeRuhstrat,194
+195,Indiana University - Jacobs School of Music,Violin,2014,Violin Performance,6.5,Caucasian,Female,Baseball Chapel,missionary--International Director,Unlimited Potential Inc.,46383,Valparaiso High School,2727 N Campbell Ave,IN,46383,"Orchestra
+Other",TamaraRingas,195
+196,Wheaton College,Violin,2014,Piano Performance & Violin Performance,,Asian,Female,Thalerus Group,Manager,Midwest Generation,60517,Naperville North High School,899 North Mill Street,IL,60563-8998,Orchestra,LeeJoiner,196
+197,University of Chicago,Clarinet,2014,Biophysics,,Asian,Female,Dow Chemicals,Professor,University of Chicago,60601,University of Chicago Laboratory Schools,1362 E 59th St,IL,60637,I will not participate in school ensembles.,BarbaraDrapcho,197
+198,,Bassoon,2014,,,Asian,Male,Mercy Hospital,System Analyst II,UHC,60565,Naperville Central High School,440 Aurora Ave,IL,60540,Band,Alice Brown,198
+199,DePaul University,French Horn,2014,Music Performance,,,Female,na,Human Resources,Federal Government,60914,St. Maria Goretti Home School,1430 Galaxy Way,IL,60914,Other,DianeStedman-Martin,199
+200,Amherst College,French Horn,2014,Undecided,,Caucasian,Male,,Executive/Founder,Bellview Associates,60614,Walter Payton College Prep,1034 N. Wells,Illinois,60614,Band,Dan O'Connell,200
+201,Roosevelt University,Trombone,2014,Political Science,,Caucasian,Male,Buzz Killer Espresso,Accounting Manager,National Excelsior Company,60143,Lake Park High School,500 W. Bryn Mawr Ave.,IL,60172,Band,ReedCapshaw,201
+202,McGill University,Violin,2014,,,Caucasian,Female,SELF,Director,Euromonitor International,60525,Lyons Township High School,100 S. Brainard,IL,60525,Orchestra,KamenVatchev,202
+203,University of Illinois,Violin,2014,,0.0,Asian,Male,OSI Group,Engineer,Transguard Insurance,60564,Neuqua Valley High School,2360 95th Street ,IL,60564,Orchestra,JinZhang,203
+204,Western Illinois University,Viola,2014,Music Education,,Asian,Female,"Laird M. Ozmon, Ltd.",Transport Driver,Dr. Pepper/Snapple,60435,Joliet Township High School- West Campus,410 N. Larkin Ave.,Illinois,60435,Orchestra,MaryPalmer,204
+205,Belmont University,Viola,2014,Music Therapy,,Caucasian,Female,law office of the cook county public defender,attorney,self,60525,lyons township high school,100 S. Brainard Ave.,il.,60525,Orchestra, michaelhining,205
+206,Augustana College,Viola,2014,Music Performance,,Caucasian,Female,Black Tie Formalwear,Retail Sales Manager,New Penn Financial,60516,Downers Grove South,1436 Norfolk St,Illinois,60516,Orchestra,DanielaBisenius,206
+207,,Viola,2014,,,Asian,Female,University of Illinois at Chicago,,Unimployed,60521,Hinsdale Central High,5500 S Grant St,IL,60521,Orchestra,Nan Zhou,207
+208,Illinois State University,Viola,2014,Music Therapy,3.0,Caucasian,Female,Naperville Public School,music director,St. Charles Epis. Church,60515,Downers Grove North,4436 Main Street,IL,60515,Orchestra,Debbie Edwards,208
+209,,Cello,2014,,,Asian,Female,,Senior NVH Engineer Specialist,CNH,60540,Metea Valley High School,1801 North Eola Road,IL,60502,Orchestra,KarenSchultz-Harmon,209
+210,,Bass,2014,,8.0,Caucasian,Male,Montalbano Realty,Builder/Carpenter,"Gold Medal Builders, Inc.",60068,Notre Dame College Prep,7655 W. Dempster Ave,IL,60714,Orchestra,Roland Moyer,210
+211,University of Missouri,Violin,2014,Journalism,7.0,Other,Female,Cook County Hospital,Facilitator,Chicago Public Schools-unemployed,60619,Chicago High School for the Arts,521 East 35th Street,Illinois,60616,Orchestra,SylviaDelacerna,211
+212,UIUC,French Horn,2015,Electrical Engineering,,Asian,Male,,Water Treatment Advisor,British Petroleum,60502,Metea Valley High School,1801 South Eola Road ,IL,60502,"Band
+Orchestra",DanO'Connell,212
+213,University of Pennsylvania,Viola,2015,Undecided,,"Asian
+Caucasian
+Other",Female,None,Vice President,7Summits,60543,Oswego East High School,1525 Harvery Road,IL,60543,I will not participate in school ensembles.,AnnMontzka-Smelser,213
+214,Butler University,Viola,2015,Double Major in Music Education and Viola performance,,Caucasian,Female,Millennium Trust Company,Global IT Project Manager,Mars Inc.,60451,Lincoln Way Central High School,Lincoln Highway,IL,60451,Orchestra,MatthewMantell,214
+215,University of Chicago,Percussion,2015,"Marhematics, Music",,Caucasian,Male,homemaker,scientist,argonne national lab,60540,Naperville north,899 mill st,Il,60540,Band,BenWahlund,215
+216,Millikin University,Bassoon,2015,Music education and entrepenuership,3.0,"African-American
+Other",Female,Self Employed,manager,Self Employed,60067,William Fremd High School,1000 S. Quentin Rd.,Il ,60067.0,"Band
+Orchestra",Gerik Fon-Revutzky ,216
+217,Northwestern University,Oboe,2015,Music Performance and Radio/Television/Film,,"Asian
+Caucasian",Female,None,Director of Diversity,Discover Card,60543,Oswego High School,4250 Illinois 71,IL,60543.0,Band,JudithSchnieder,217
+218,Brown University,Tuba,2015,International Relations,,Caucasian,Male,Joliet Junior College,Attorney at Law,Joseph L. Planera and Associates,60487,Lincoln-Way North Community High School,19900 Harlem Avenue,Illinois,60423,"Band
+Orchestra",RogerRocco,218
+219,The Juilliard School,Percussion,2015,Classical Percussion - Performance,,Caucasian,Male,The Joyce Foundation,Partner,Jenner & Block,60201,Evanston Twp High School,1600 Dodge,IL,60201,"Band
+Orchestra",PatsyDash,219
+220,University of Iowa,Bassoon,2015,"Biomedical Engineering, Pre-Med Track",,"Asian
+Caucasian",Male,Wheaton College,Senior Director of Corporate Finance,Fitch Ratings,60126,York Community High School,355 W St. Charles Road,Illinois,60126,"Band
+Orchestra",JonathanSaylor,220
+221,University of Illinois at Urbana-Champaign,Violin,2015,Industrial Design,,Asian,Female,Naperville North High School,Professor,University of Illinois at Chicago,60517,Naperville North High School,899 Mill St.,IL,60563,I will not participate in school ensembles.,BarbaraFarley,221
+222,DePaul University,Clarinet,2015,Clarinet Performance,,Asian,Male,,president,self,60067,Fremd High School,1000 S Quentin Rd,IL,60067.0,"Band
+Orchestra",Keun JinJung,222
+223,Harvard College,Oboe,2015,Psychology,,Caucasian,Female,None,Actuary,Aon-Hewitt,60201,Evanston Township High,1600 Dodge Ave,IL,60202.0,"Band
+Orchestra",EricaAnderson,223
+224,Indiana University - Bloomington; Kelley School of Business,Bass,2015,Accounting and Finance,,Caucasian,Female,AIM Specialty Health,Managing Director,Wells Fargo Securities,60126,York Community High School,355 W St. Charles Rd.,Illinois,60126,Orchestra,VirginiaDixon,224
+225,Indiana University,Violin,2015,Violin Performance,,Caucasian,Female,CHSD 218,Physician,EmCare,60546,Riverside Blookfield High School,160 Ridgewood Road,IL,60546,Orchestra,Betty Haag,225
+226,Eastman School of Music,Trombone,2015,Trombone Performance,8.5,Caucasian,Male,Community Nursing and Rehabilitation Center,?,?,60564,Neuqua Valley,95th Street,IL,60564.0,"Band
+Orchestra
+Other",PhilBrown,226
+227,Luther College,Viola,2015,Music Education,,Caucasian,Female,First American,Vice President,Lamson Airtubes,60510,Batavia High School,1201 Main Street,IL,60510,Orchestra,Simonne Tingley,227
+228,Indiana University,Bass,2015,Music Performance,,Caucasian,Male,IBT Local 743,Child Welfare Worker,State of Illinois,60304,Oak Park and River Forest High School,201 N. Scoville,IL,60302,"Orchestra
+Other",AndyAnderson,228
+229,Uof I-- Urbana Champaign,Flute,2015,Flute Performance,,Caucasian,Female,Edward Hospital,Project Manager,Knowles,60564,Neuqua Valley High School,2360 95th Street,IL,60564.0,"Band
+Other",HidekoAmano,229
+230,University of Illinois Urbana Champaign,French Horn,2015,Horn Performance,,Caucasian,Female,,Partner,Jones Day,60514,Hinsdale Central H.S.,55th & Grant Sts.,IL,60521,"Band
+Orchestra
+Other",MelanieCottle,230
+231,Lawrence University,French Horn,2015,English,,Caucasian,Female,Northwestern Medical Group,none,none,60540,Naperville North High School,899 N. Mill St.,IL,60540,Band,DanO'Connell,231
+232,Purdue University,Violin,2015,Biomedical Engineering,,Asian,Male,Tony's Auto Collision Center,Database Manager,"Associated Agencies, Inc.",60490,Plainfield East High School,12001 S. Naperville Rd,IL,60585,Other,PatrickRustandi,232
+233,University of Chicago,Bassoon,2015,Physics,,Caucasian,Male,ABF,Partner,Williams Montgomery & James,60601,St. Ignatius College Prep,1080 W. Roosevelt Road,IL,60608.0,Orchestra,AnnDufek,233
+234,Northwestern University,Percussion,2015,Industrial Engineering and Percussion Performance,1.0,Caucasian,Male,American Airlines,National Director - East,World Vision,60565,Naperville Central High School,440 West Aurora Ave.,IL,60540,"Band
+Orchestra
+Other",BenWahlund,234
+235,Northwestern University,Bass,2015,Bass Performance and Economics,,Caucasian,Male,United Airlines,New product development manager,Sears Holdings,60110,HD Jacobs High School,2601 Bunker Hill Drive,IL,60102,Orchestra,TimShaffer,235
+236,Carnegie Mellon University,Flute,2015,Flute Performance,,Caucasian,Female,self employed,Senoir Project Manager,Sargent & Lundy,60134,Geneva Community Highschool,416 McKinley Avenue,IL,60134.0,"Band
+Orchestra
+Other",JodiTaylor,236
+237,Lawrence University,Oboe,2015,"Pre-Engineering (Undecided), minoring in Spanish",,Caucasian,Female,Rosemont School,Executive,Global Fire Protection,60514,Fenwick High School,505 W. Washington,IL,60302,Band,CrystalHall,237
+238,University of Illinois at Urbana Champaign,Violin,2015,Computer Science,,Asian,Male,N/a,Sales,Air Sea Chicago,60007,James B Conant High School,700 East Cougar Trail,IL,60169,Orchestra,GuangzhiQi,238
+239,University of Illinois at Urbana Champaign,Violin,2015,Economics,2.0,Asian,Female,Aramark,Mailman,U.S. Postal Office,60540,Metea Valley High School,1801 N Eola Rd.,IL,60502,Orchestra,ManmanJiang,239
+240,Pratt Institute,Viola,2015,Architecture,,Asian,Female,non,Physician,University of Illinois at Chicago,60647,Whitney M. Young Magnet High,211 S. Laflin St.,IL,60607,Orchestra,RolandoFreitag,240
+241,"Indiana University, Jacobs School of Music",Harp,2015,Harp Performance ,,Caucasian,Female,Naperville School District,Principal,Naperville Schoo9l District,60565,Naperville Central High School,440 Aurora Avenue,IL,60540,Orchestra,EmilyBaxter,241
+242,Vanderbilt University,Viola,2015,Viola Performance and Business,,Asian,Female,Chicago Public Schools,Principal Architect,Kwang Kim Architects,60641,Northside College Prep High School,5501 N. Kedzie Ave.,IL,60625,Orchestra,DesireeRuhstrat,242
+243,Miami University,Violin,2015,Kinesiology,,Caucasian,Female,CPS,Truck Driver,AK Transportation,60514,Hinsdale Central,55th & Grant Streets,IL,60521,Orchestra,Debbie Edwards,243
+244,Northwestern,Violin,2015,"Violin Performance, Undecided",10.0,Caucasian,Female,Alcatel-Lucent Technologies,DMTS,Alcatel-Lucent Technologies,60565,Neuqua Valley High School,2360 95th Street ,IL,60564,I will not participate in school ensembles.,DesireeRuhstradt,244
+245,DePaul University,Violin,2015,Violin Performance,7.5,Other,Male,Waukegan Public Schools,Owner,Self-Employed,60631,Loyola Academy,1100 Laramie Ave.,IL,60091,Orchestra,EdytaMrugala,245
+246,Harvard,Violin,2015,Chemistry,,Asian,Female,Niles North High School,Senior Engineer,Amron,60089,Adlai E. Stevenson ,1 Stevenson Drive,IL,60069,Orchestra,DesireeRuhstrat ,246
+247,University of Chicago,Violin,2015,Economics,,Asian,Male,Lee Computer Services,Consultant,Transunion LLC,60527,Hinsdale South High,7401 S. Clarendon Hills Road,IL,60561,I will not participate in school ensembles.,SandoShia,247
+248,Case Western Reserve University,Violin,2015,Biology,,,Female,Sidley Austin,Systems and research coordinator,John Marshall Law School,60514,Hinsdale Central High School,5500 S Grant St,IL,60521,Orchestra,DebbieEdwards,248
+249,University of Chicago,Viola,2015,Mathematics,7.0,Asian,Female,University of Illinois at Chicago,Manager,Chinese Academy of Agricultural Mechanization Sciences,60521,Hinsdale Central High School,55th and Grant Streets,IL,60521,Orchestra,AndreannaMoravec,249
+250,University of Illinois at Urbana Champaign,Cello,2015,Civil Engineering,,Asian,Male,self,Civil Engineering Professor,Univ. of Illinois,61822,Univ. of Illinois Lab School,1212 W Springfield Ave,IL,61801,Orchestra,DeniseDjokic,250
+251,Harvard College,Piano,2015,English/Economics,,Asian,Female,JDA eHealth,developrt,Aetna,60565,Naperville Central High,"440 Aurora Ave, ",IL, 60540,I will not participate in school ensembles.,Myung-HeeChung,251
+252,Curtis Institute of Music,French Horn,2015,Horn Performance,,Caucasian,Male,Village of Winfield,Oncology Key account Mangager,Merck,60564,Waubonsie Valley High School,2590 Ogen Avenue,Illinois,60504.0,"Band
+Orchestra",DanielO'Connell,252
+253,North Central College,Violin,2015,Music Education,6.0,African-American,Male,Chicago Public Schools,,,60645,Lane Technical College Prep,2501 W Addison,IL,60618,Orchestra,NancyJackson,253
+254,"Indiana University, Jacobs School of Music",Cello,2015,Cello Performance,,"Asian
+Caucasian",Male,,Analyst,AT&T,60526,Lyons Township HS,100 South Brainard Avenue,IL,60525,"Orchestra
+Other",RichardHirschl,254
+255,Case Western Reserve University,Trombone,2015,Biochemistry,2.5,Caucasian,Male,YMCA,Nuclear Engineer,Argonne National Laboratory,60565,Neuqua Valley High School,2360 95th Street,IL,60564,Band,PhilBrown,255
+256,New York University,Clarinet,2015,Clarinet Performance & Pre-Med,,Asian,Male,House Wife,Professor of Ocean Engineering,Busan National University,60062,Glenbrook North High School,2300 Shermer Road,IL,60062.0,"Band
+Orchestra",SteveCohen,256
+257,Uof I-- Urbana Champaign,Percussion,2015,Computer Science and Statistics,,Asian,Male,,Director,US Cellular,60532,Naperville North High School,899 Mill St,IL,60563,I will not participate in school ensembles.,BenWahlund,257
+258,Eastman School of Music,Bass Trombone,2015,Applied Music (Performance),7.0,Latino,Male,Walgreens,none,none,60657,Golder College Prep,1454 W. Superior,Illinois,60642,Band,TimothyRiordan,258
+259,University of Illinois Urbana Champaign,Cello,2015,Civil engineering,2.0,Asian,Male,Naperville Community School District,Professor,Global Enrichment Theological Seminary,60565,Naperville Central,440 Aurora Avenue,Illinois,60540,Orchestra,Tanya Carey,259
+260,Washington University in St. Louis,Flute,2015,PNP: Philosophy-Neuroscience-Psychology,,Caucasian,Female,University of Chicago,,unemployed,60615,University of Chicago Laboratory School,1362 E 59th St,IL,60637.0,Other,SusanLevitin,260
+261,Northeastern University,Bass,2015,Computer Science,,"Asian
+Caucasian",Male,AIM Specialty Health,Staff Scientist / Technical Director,University of Chicago,60304,Illinois Mathematics and Science Academy,1500 Sullivan Rd,IL,60506,Other,MohannadAl-Zahabi,261
+262,Northwestern University,French Horn,2015,Horn Performance/Pre-Medical Studies,,Caucasian,Female,Plainfield School District 202,Letter Carrier,Western Springs Post Office,60544,Plainfield North HS,248th Ave.,,,"Band
+Other",Jonathan Boen,262
+263,DePaul,Bassoon,2015,Music Performance,9.0,Caucasian,Female,Ace Hardware Lemont,,,60439,Lemont High School,800 Porter Street,Illinois,60439.0,Band,Laura Harkrider,263
+264,DePaul University,Trumpet,2015,Trumpet Performance,3.0,Caucasian,Male,Oakton Community College,Business Analyst,Havi Global Solutions,60201,Evanston Township High School,1600 Dodge Ave.,IL,60201.0,"Band
+Orchestra",Rachel Serber ,264
+265,Eastman School of Music,Tuba,2015,Tuba Performance,,Caucasian,Male,JP Morgan Chase,Respiratory Therapist,Sherman Hospital,60177,St. Charles North High School,255 Red Gate Road,IL,60175,"Band
+Orchestra",ScottTegge,265
+266,Augustana College,Violin,2015,Pre-Veterinary Medicine,5.0,Caucasian,Female,city of chicago,,not employed,60634,Guerin College Prep,8001 West Belmont ,illinois,60171,Orchestra,AyakoKikuchi,266
+267,oklahoma state university,Oboe,2015,oboe performance,,Caucasian,Female,The Allant Group,Vice President,5/3 Bank,60564,Neuqua Valley High School,2360 95th St,IL,60564,"Band
+Orchestra",SteveSmelser,267
+268,University of Alabama College of Engineering,Harp,2015,Mechanical Engineering,,Asian,Female,Self Artist,Investigator,Illinois State Police,60643,Whitney M. Young Magnet High School,211 S Laflin,Illinois,60607,"Band
+Orchestra",LynnWilliams,268
+269,University of Illinois at Urbana-Champaign,Violin,2015,Undecided,,,Female,none,Manager,Accenture,60521,Hinsdale Central,5500 S Grant St,IL,60521,Orchestra,ThomasWermuth,269
+270,Northwestern,Clarinet,2015,Materials Engineering,,Asian,Male,Regal Beloit Corporation,Technical Director,Sensient,60174,IL Math and Science Academy,1500 Sullivan Road,IL,60506.0,I will not participate in school ensembles.,GregBarrett,270
+271,University of Illinois Urbana Champaign,Viola,2015,Computer Engineering,,Asian,Male,Siemens Healthcare,,None,60010,Barrington High School,616 W. Main Street,IL,60010,Orchestra,NanZhou,271
+272,Chicago College of Performing Arts,Viola,2015,Viola Performance,8.0,Asian,Female,Onsen Day Spa,Loan Officer,Crosscountry Mortgage,60048,Libertyville High School,708 W Park Ave,IL,60048,Orchestra,CarolJanossy,272
+273,University of Illinois at Urbana-Champaign,Violin,2015,Biology,,Asian,Male,MutualSoft,Self-Employed,Self-Employed,60607,Whitney M Young Magnet High School,211 S Laflin,Illinois,60607,Orchestra,XingwuWang,273
+274,Amherst College,Violin,2016,Neuroscience,,Caucasian,Male,,Executive,VEOLIA,60614,Latin School of Chicago,59 W North Blvd,IL,60610,"Other
+I will not participate in school ensembles.",AlinCernaianu,274
+275,Manhattan School of Music,Clarinet,2016,clarinet performance,,Caucasian,Male,,Programmer,LGS Innovations,60089,Adlai E. Stevenson,1 Stevenson Drive,Illinois,60089,"Band
+Orchestra",StevenCohen,275
+276,University of Illinois,Tuba,2016,Undeclared,,Caucasian,Male,,Chief Architect,Thomson Reuters,60565,Waubonsie Valley High School,2590 Ogden Avenue,Illinois,60504,"Band
+Other",ScottTegge,276
+277,Indiana University - Jacobs School of Music,Violin,2016,Violin Performance,7.5,African-American,Female,Metra,Truck Driver,JB Hunt Transportation,60430,homewood-Flossmoor Community High School,999 Kedzie Ave.,IL,60422,Orchestra,AddisonTeng,277
+278,Butler University,Viola,2016,Viola Performance,,Caucasian,Male,non,Project Manager,Abbvie,60073,Homeschool,414 N. Wagonwood Rd.,Illinois,60073,I will not participate in school ensembles.,DesireeRuhstrat,278
+279,Massachusetts Institute of Technology,Flute,2016,Chemical Engineering,,Asian,Female,Grant Thornton LLP,Engineering Specialist,Caterpillar Inc,60490,Neuqua Valley High School,Main Building,IL,60564,Band,AllisonDomanus-Brady,279
+280,,Violin,2016,,,Caucasian,Female,SMCO,SM,LOC,60525,LTHS,100 S Brainard,IL,60525,Orchestra,KamenVatchev,280
+281,Indiana University (Jacobs School of Music),Violin,2016,Violin Performance and Environmental Science (double major),10.0,Caucasian,Female,retired,,retired,60010,Barrington High School,616 Main Street,IL,60010,Orchestra,Hye-SunLee,281
+282,Stanford University,Bassoon,2016,Computer Science Minoring in Musical Performance/Composition,,Caucasian,Male,Prairie Central High School,dental consultant,CIGNA,61739,Illinois Mathematics and Science Academy,1500 W Sullivan,IL,60506,"Band
+Orchestra",MeganLackaff,282
+283,Lawrence University,Clarinet,2016,Clarinet Performance and Music Ed,5.0,Asian,Male,Jazzy Flowers,,,60068,Maine South Highschool,1111 s Dee ave,Illinois,,"Band
+Orchestra
+Other",BarbaraDrapcho,283
+284,Northwestern University,French Horn,2016,Horn Performance,8.5,,Male,Kankakee Valley School Corporation,retired,none,46385,Valparaiso High School,2727 N. Campbell St.,IN,46383,"Band
+Orchestra",LeeShirer,284
+285,VanderCook College of Music,Violin,2016,Music Education,9.5,Caucasian,Female,self,deceased,deceased,60442,Bridgeway Academy - homeschool,334 2nd St,PA,18032,Orchestra,CarlJohnston,285
+286,University of Michigan,Cello,2016,Cello performance,6.0,Caucasian,Male,Self-Employed,Stock Manager,Benjamin Moore,60515,Downers Grove North High School,4436 Main Street,IL,60515,Orchestra,AndreaLaFranzo,286
+287,Vanderbilt University,Violin,2016,Violin Performance,,,Male,Higher Learning COmmission,Director of Board Consulting,"Morningstar, Inc.",60302,Oak Park RIver Forest High School,201 N.. Scoville Ave,IL,60302,Orchestra,BlairMilton,287
+288,Wheaton College,Clarinet,2016,Music Performance,,Asian,Male,None,Programmer,S&C Electric Company,60133,Homeschooled,5981 Andover Drive West,IL,60133,I will not participate in school ensembles.,LacyGarbar,288
+289,DePaul University,Percussion,2016,Music Education,,Caucasian,Male,byk usa,product manager,molex,60193,Conant high scho,700 E. Cougar Trail,IL,60169,"Band
+Other",MichaelKozakis,289
+290,University of Colorado Boulder,Oboe,2016,Oboe Performance,,Caucasian,Female,Marquette Academy,Production Technician,Sabic,61350,Ottawa Township High School,211 East Main Street,Illinois,61350,Band,AnnaVelzo,290
+291,Cleveland Institute of Music,Bass,2016,Double bass performance,,Caucasian,Male,Winnetka Public Schools,Cantor,Jewish Reconstructionist Congregation,60025,Glenbrook South High School,4000 W. Lake Avenue,IL,60026,"Orchestra
+Other",RobertKassinger,291
+292,Dartmouth College,Violin,2016,Environmental Studies,,Asian,Female,None,Senior Engineer,Alcatel Lucent,60510,Batavia High School,1201 Main Street,Illinois,60510,Orchestra,JulieBickel,292
+293,Brown,Flute,2016,International Relations,,Caucasian,Male,dsa,professor,university of chicago,60637,university of chicago lab school,1359 east 59th Street,il,60637,I will not participate in school ensembles.,susanlevitin,293
+294,Oberlin Conservatory,Clarinet,2016,Clarinet Performance,,Caucasian,Male,Lemont High School,Pilot,American Airlines,60491,Lockport Townwship High School,1333 7th Street,IL,60441,"Band
+Other",AndreaDiOrio,294
+295,Eastman School of Music,Oboe,2016,Oboe Performance,,Caucasian,Male,Self,Air Traffic Controller,DOT/FAA,60174,St Charles East High School,1020 Dunham Rd,IL,600174,"Band
+Orchestra
+Other",DebStevenson,295
+296,Case Western Reserve University,Viola,2016,Undecided,,Asian,Female,Invesco,Systems Analyst,HSB,60540,Naperville North High School,899 North Mill Street,IL,60563,Orchestra,EmilyWilliams-Puntuzs,296
+297,Brigham Young University,Cello,2016,Physics,1.0,Asian,Male,homemaker,senior consultant,opentext,60554,Kaneland high school,47w326 keslinger rd,Il,60151,"Other
+I will not participate in school ensembles.",AndreaLaFranzo,297
+298,Oberlin Conservatory of Music,Cello,2016,Cello Performance,,Caucasian,Male,Horwood Marcus & Berk,Director,Rush University Medical Center,60659,Whitney Young Magnet HS,211 S Laflin Street,IL,60607,Orchestra,BlakeBrasch,298
+299,San Francisco Conservatory,Bass,2016,Double Bass Performance,8.0,Caucasian,Male,,Driver,Koch & Sons Trucking,60630,Lane Tech College Prep,2501 W Addison,Il,60618,Orchestra,HansPeterman,299
+300,University of Chicago,Trombone,2016,Molecular Engineering,,Caucasian,Male,MMPI,Sales Representative,Progeny Dental,60647,University of Chicago Laboratory Schools High Schools,1362 E 59th St,IL,60637,Other,ReedCapshaw,300
+301,Indiana University,Flute,2016,Flute performance,,Asian,Female,None,manager,Cabotmicroelectronics,60490,Neuqua Valley High School,2360 95th street,IL,60564,Band,EllenHuntington,301
+302,The Ohio State University,Trombone,2016,Chemical Engineering/Pre-Med,,Caucasian,Male,"Kusper Law Group, Ltd.",Lawyer,Kusper Law Group,60462,Carl Sandburg High School,13100 South LaGrange Road,Illinois,60462,"Band
+Orchestra
+Other",TimRiordan,302
+303,Oberlin Conservatory of Music,Trombone,2016,Classical Trombone Performance,,Caucasian,Female,Abbott,IT Help Desk,Uline,60060,Mundelein High School,1350 W. Hawley Street,IL,60060,Band,ColleenBayoneto,303
+304,Oberlin College,Viola,2016,Viola performance and mathematics,,Caucasian,Female,self-employed,economist,government,60302,Larson Academy,411 Linden Avenue,IL,60302,I will not participate in school ensembles.,PeterSlowik,304
+305,University of Illinois at Urbana-Champaign,Violin,2016,Computer Engineering,,Asian,Male,,Software Engineer,Capital One,60008,William Fremd High School,1000 S Quentin Rd,IL,60067,Orchestra,TakaMatsunaga,305
+306,University of Illinois at Urbana-Champaign,Violin,2016,Psychology,,Asian,Female,Hosital,Nurse,Hospital,60661,Whitney M. Young Magnet High School,211 S. Laflin St.,IL,60607,Band,AndrewWilliams,306
+307,Indiana University Bloomington,Violin,2016,Finance,,Asian,Female,GreatBanc,Global Database Operations Manager,Mayer Brown,60565,Naperville Central High School,440 Aurora Ave,IL,60540,I will not participate in school ensembles.,NanZhou,307
+308,New England Conservatory,Trumpet,2016,Music Performance,3.0,Caucasian,Male,Hinsdale Hospital,driver,Area Landscape Supply,60448,Lincoln-Way West,21701 S. Gouger Road,Illinois,60451,Band,JohnBurson,308
+309,Yale University,French Horn,2016,Pre-med and music or humanities,,Caucasian,Female,The Children's School,Attorney/Founding Partner,Martin-Sirott LLC,60302,Oak Park and River Forest High School,201 North Scoville Avenue,IL,60302,"Band
+Orchestra
+Other",AnnaJacobson,309
+310,Northwestern University,Tuba,2016,Tuba performance and engineering,,Caucasian,Male,ESPN,Chief Operating Officer,Nadler Financial,60062,Glenbrook North,2300 Shermer Road,Illinois,60062,"Band
+Orchestra",JaredBulmer,310
+311,Indiana University,Violin,2016,Business,,Asian,Male,KPMG,Attorney,Metcalf Law Group,60193,James B. Conant High School,700 E Cougar Trail,Illinois,60169,Orchestra,BettyHaag-Kuhnke,311
+312,University of Minnesota,Cello,2016,Cello Performance and Computer Science,,Caucasian,Female,NOT EMPLOYED,ADMINISTRATOR,CITY OF PHOENIX,60302,Oak Park and River Forest High School,201 North Scoville Avenue,Illinois,60302,"Orchestra
+Other",MaraLeonard,312
+313,Northeastern University,Cello,2016,Environmental Engineering,7.0,Caucasian,Male,,marketing consultant,self employeed,60515,Downers Grove North,4436 Main St,IL,60515,Orchestra,TimArchbold,313
+314,University of Illinois at Urbana-Champaign,Violin,2016,Economics,,Other,Male,None,Senior Vice President,Sutherland,60564,Neuqua Valley High School,2360 95th Street,IL,60564,Orchestra,DrewLecher,314
+315,University of Illinois Urbana - Champaign,Violin,2016,Industrial Engineering with a minor in Violin Performance,,Asian,Female,Fitch Ratings,Business Development,Sienna Corporation,60564,Waubonsie valley High School,2590 Ogden Avenue,IL,60504,Orchestra,DrewLecher,315
+316,University of Chicago,Oboe,2016,Physics,,Asian,Male,Self-employed,Staff Scientist,University of Chicago,60653,University of Chicago Lab School,1362 E. 59th St,IL,60637,I will not participate in school ensembles.,ChristinePhillips,316
+317,University of Michigan,Violin,2016,Neuroscience and Violin Performance,,Caucasian,Female,,Member,Bronson & Kahn LLC,60525,Lyons Township High School,100 S Brainard Avenue,IL,60525,"Orchestra
+Other",MichaelHining,317
+318,Iowa State University,Trumpet,2016,Computer Engineering,,Caucasian,Male,Haiges Machinery,Branch Manager,Hertz,60013,Cary-Grove High School,2208 3 Oaks Rd,IL,60013,"Band
+Other",MarkPonzo,318
+319,Indiana University,Clarinet,2016,Management,,Asian,Male,None,CFO,Wonik Corporation USA,60015,Deerfield High School,1959 Waukegan Rd,IL,60015,"Band
+Orchestra",SteveCohen,319
+320,Princeton University,Percussion,2016,Percussion performance and Computer science,,Caucasian,Male,Self employed,quantitative finance,Self employed,60201,Evanston Township High School,1600 Dodge Ave,IL,60201,"Band
+Orchestra",SeanKopp,320
+321,University of Illinois,Violin,2016,Physics,,Caucasian,Male,Brittanie's Thyme LLC,Research Director,Euromonitor International,60525,Lyons Township Highschool,100 S. Brainard,IL,60525,Orchestra,KamenVatchev,321
+322,Eastman School of Music,Oboe,2016,Oboe performance,,Caucasian,Female,,general trades specialist-carpentry,Wheeling Park District,60005,Prospect High School,801 W. Kensington Rd.,IL,60056,"Band
+Orchestra",RicardoCastaneda,322
+323,Northwestern University,Violin,2016,Physics,,Caucasian,Male,self employed,Vice-President Medical Policy,Health Care Service Corporation,60565,Waubonsie Valley High School,2590 Ogden Avenue,Ilinois,60565,Orchestra,PaulZafer,323
+324,University of Illinois - Urbana Champaigne,Viola,2016,Computer Science,,Asian,Female,,Engineer,Alcatel-Lucent,60564,Waubonsie Valley Highschool,2590 Ogden Ave,IL,60504,Orchestra,NicholasJeffery,324
+325,St. Olaf College,Cello,2016,Cello Performance (B.M.),2.5,Caucasian,Male,Wells Fargo Advisors,Assistant News Director,Illinois State University - WGLT Public Radio,61761,University High School,500 W Gregory St,IL,61790-7100,"Orchestra
+Other",NinaGordon,325
+326,Stanford University,Viola,2016,Engineering,,,Male,Stericycle,Manufacturing,Baxter,60035,North Shore Country Day School,310 Green Bay Road,IL,60093,I will not participate in school ensembles.,DesireeRuhstrat,326
+327,DePauw University,Cello,2016,Music Performance and Music Business,10.0,,Female,Carlson Animal Hospital,Management,Air Confort Corporation,60515,Downers Grove North High School,4436 Main St,IL,60515,"Band
+Orchestra",JonPegis,327
+328,Indiana University,Trumpet,2016,Music Education,,Caucasian,Male,IPSD 204,CEO,Ardenture Inc.,60565,Neuqua Valley,2360 95th St,IL,60565,"Band
+Orchestra
+Other",TomTait,328
+329,Northwestern University,Flute,2016,Neuroscience,6.0,,Female,Provena St. Joseph Health,business,USCCIA,60564,Neuqua Valley High School,2360 95th Street,IL,60564,Band,AllisonBrady,329
+330,Stanford University,Viola,2016,Applied mathematics,,Caucasian,Female,self,investment advisor,self,60119,St. Charles North High School,255 Red Gate Rd.,Illinois,60175,Orchestra,SusanPosner,330
+331,Northwestern University,French Horn,2016,French horn performance and political science,2.0,Caucasian,Female,Alltherm Services Inc.,Project Manager,Alltherm Services,60076,Niles North High School,9800 Lawler Ave,IL,60077,"Band
+Orchestra",DanielO'Connell,331
+332,Stanford University,Piano,2016,"Management, Science, and Engineering",,Asian,Female,Health Connection Physical Medicine,Financial Analyst,Northern Trust,60565,Illinois Mathematics and Science Academy,1500 W Sullivan Rd,IL,60506,I will not participate in school ensembles.,EstherChang,332
+333,University of Southern California,Violin,2016,Architecture,,Caucasian,Female,Self,Principal,SElf,60301,Oak Park and River Forest High School,1434 Monroe Avenue,IL,60305,Orchestra,JenniferCappelli,333
+334,University of Illinois at Urbana Champaign,Violin,2016,Undeclared,,Asian,Male,Rush Medical University,IT,BCBSIL,60559,Hinsdale Central,5500 S Grant St,Illinois,60521,Orchestra,JinZhang,334
+335,Illinois state university,Percussion,2016,Undecided,,Caucasian,Male,Exit Realty Redefined,none,none,60108,Lake Park High School,500 W. Bryn Mawr Ave,IL,60172,"Band
+Orchestra",RussellKnutson,335
+336,"Seminole State College Altamonte Springs, FL",French Horn,2016,Music Performance/ Music Education,1.5,Caucasian,Female,adventist bolingbrook hospital,parts sales,darcy hyundai,60564,neuqua valley high school,2360 95 th strreet,il,60564,"Band
+Orchestra
+Other",DanOconnell,336
+337,DePaul,Bassoon,2016,Music Education,,"African-American
+Caucasian
+Native American",Male,U.S. Government,programmer,contracted,60077,Niles West,7600 Oakton Street,Il,60077,"Band
+Orchestra
+Other",HannaSterba,337
+338,Columbia University (exchange program with Juilliard School),Cello,2016,Undecided,,Caucasian,Female,self,physician,self,60521,Hinsdale Central High School,5500 S Grant St.,IL,60521,I will not participate in school ensembles.,TanyaCarey,338
+339,Rice University,Flute,2016,Flute Performance,,Caucasian,Female,Torch Creative,President,Torch Creative,60137,Glenbard West HS,670 Crescent Blvd,IL,60137,"Band
+Orchestra
+Other",CateHummel,339
+340,University of Notre Dame,Clarinet,2016,Undecided,,Caucasian,Female,Integrity Orthopedics,Orthopaedic Surgeon,Integrity Orthopedics,60422,Homewood Flossmoor High School,999 Kedzie Ave,IL,60422,Band,JosephMaielli,340
+341,University of Illinois,Trombone,2016,Civil Engineering,,Caucasian,Male,Liberty International Underwriters,Vice President,5/3,60564,Nequa Valley High School,2360 95th Street,IL,60564,"Band
+Other",MaxBonecutter,341
+342,Brown University,Violin,2016,"Physics, French",,,Male,Pianoforte Chicago,owner,Pianoforte Chicago,60521,Hinsdale Central HS,55th & Grant Streets,IL,60521,"Orchestra
+Other",JinZhang,342
+343,University of British Columbia,Trumpet,2017,Engineering and Trumpet Performance,,Caucasian,Female,CBS,teacher,IIT,60564,Plainfield North,12005 South 248th Avenue,IL,60585,"Band
+Other",JudyBridges,343
+344,Western Illinois,Violin,2017,Music Business,9.0,Latino,Female,University Club of Chicago,,,60625,Rickover Naval Academy,5900 N Glenwood Ave,IL,60660,Band,AnnaCarlson,344
+345,University of Illinois at Urbana-Champaign,Violin,2017,Chemistry and Violin Performance,,Latino,Female,,Housekeeping,AC Hotel Chicago,60625,Lincoln Park High School,2001 N. Orchard St.,IL,60614,Orchestra,DebbieLee,345
+346,The Juilliard School,Viola,2017,Viola Performance,,"Caucasian
+Latino",Female,"Sertoma Centre, Inc",Retired Letter Carrier,USPS,60417,Homeschool,145 Devonshire Drive,IL,60417,I will not participate in school ensembles.,MatthewMantell,346
+347,University of Chicago,Violin,2017,Global Health,,African-American,Female,retired,director of training,chicago police department,60707,Whitney M. Young High School,211 S. Laflin St.,IL,60607,Orchestra,JenniferCappelli,347
+348,Oberlin Conservatory,Violin,2017,Violin Performance,,Latino,Male,Community Consolidated School District 15,Quality Manager,PorterLee Corp,60192,william fremd high school,1000 S Quentin Rd,IL,60067,Orchestra,StephanyPreucil,348
+349,Lawrence University,Viola,2017,Viola/Biology,,Caucasian,Female,self,lawyer,self,60525,Lyons Township,100 S. Brainard Ave.,IL,60525,"Orchestra
+Other",JessicaKus,349
+350,Lawrence University,Cello,2017,cello performance,,Caucasian,Female,Costco,Professor,Valparaiso University,46383,Valparaiso University,2727 N Campbell St,IN,46385,Orchestra,DavidMachavariani,350
+351,Oberlin Conservatory of Music,Viola,2017,Viola Performance,,Caucasian,Female,Capco,Senior Traning Specialist,Fuze,60189,Wheaton-Warrenville South High School,1993 Tiger Trail,IL,60189,Orchestra,PeterSlowik,351
+352,SIU Carbondale IL,Trombone,2017,engineering,,African-American,Male,Daycare,Mail  Carrier,Post Office,60620,Chicago High School for the Arts,2714 W Augusta,Illinois,60622,Band,StephenBerry,352
+353,the Eastman School of Music,Piano,2017,Jazz and Contemporary Media,,Caucasian,Male,St. Leonard's Ministry,Financial Advisor,William Blair,60521,Hinsdale Central High School,5500 S. Grant St,Illinois,60521,"Band
+Other",FrankCaruso,353
+354,University of Illinois in Chicago,Saxophone,2017,Jazz Studies,9.0,Latino,Male,,Employee,Lake Point Tower,60651,Prosser Career Academy,2148 N Long Ave,IL,60639,"Other
+I will not participate in school ensembles.",DerrickTate,354
+355,University of California-Berkeley,Steelpan,2017,Neurobiology,,`,Female,Cosmic Montessori School,Engineering Manager,Lechler Inc.,60504,Metea Valley High School,1801 N. Eola Road,Illinois,60502,Band,AmandaFenton,355
+356,Carnegie Mellon University,Saxophone,2017,"Physics, Mathematics, & Musical Performance",,Caucasian,Male,Verizon,Account Director,Level 3,60134,Geneva Community HIgh School,416 McKinley Avenue,Il,60134,"Band
+Other",MarkColby,356
+357,DePaul,Bass,2017,Bass Performance,,Caucasian,Male,self,Director of Music/self,Our Lady of Mt Carmel Church,60126,York Community HS,355 St. Charles Rd,IL,60126,"Band
+Orchestra
+Other",RobKassinger,357
+358,University of Wisconsin-Madison,Oboe,2017,Biochemistry (or Math) and French,2.0,"Asian
+Caucasian",Female,Cardinal Health,,,60031,Warren Township High School,34090 Almond Rd,IL,60031,Band,BettyGarrett,358
+359,"University of California, Berkeley",Oboe,2017,Public Health and Molecular and Cell Biology,,Asian,Female,self,Manager,Verizon,60302,Oak Park and River Forest High School,201 N Scoville,Illinois,60302,Band,ChristinePhillips,359
+360,Stanford University,Violin,2017,Undecided,,Caucasian,Female,,,,60605,Whitney Young Magnet High School,211 S Laflin,IL,60607,Orchestra,JennyCappelli,360
+361,Oberlin Conservatory,Clarinet,2017,Clarinet Performance,,Caucasian,Male,Bed Bath & Beyond,Machine Operator,Dart Container,60477,Carl Sandburg High School,13300 South La Grange Road,Illinois,60462,"Band
+Orchestra",BonnieCampbell,361
+362,DePaul University,French Horn,2017,French Horn Performance,8.0,"Asian
+Caucasian",Female,self,Trumpet instructor,Music Institute of Chicago,60202,Evanston Township High School,"1600 Dodge Ave,",IL,60204,"Band
+Orchestra",MelanieCottle,362
+363,DePaul University,Clarinet,2017,Music Performance,,"Asian
+Caucasian",Female,none,Manager,Daido Steel America,60004,John Hersey High Schoolo,1900 E Thomas St,IL,60004,"Band
+Orchestra",JudyMorrison,363
+364,Princeton University,Violin,2017,Computer Science,,Asian,Female,AMEC Foster Wheeler,Senior Engineer,GE,60564,Neuqua Valley High School,2360 95th Street,IL,60564,I will not participate in school ensembles.,NanZhou,364
+365,Boston University,Viola,2017,Music Education,,Caucasian,Female,Stone and Johnson,Captain,Delta Airlines,60564,Neuqua Valley High School,2360 95th Street,IL,60564,Orchestra,MarkDjordjevic,365
+366,Gap Year,Violin,2017,Music Education,4.0,"African-American
+Caucasian",Male,Forest Pk School Dist 91,Chef,IL Epsilon Pi Beta Phi,60302,Oak Park River Forest HS,201 N. Scoville Ave.,IL,60302,Orchestra,ElizabethCoffman,366
+367,Princeton University,Cello,2017,Economics,,Caucasian,Female,,Executive Vice President,Cushman & Wakefield,60137,Glenbard West High School,670 Crescent Blvd,IL,60137,Orchestra,DavidCunliffe,367
+368,Cleveland Institute of Music,Bassoon,2017,Bassoon Performance,,Asian,Male,Datalogics Inc,Faculty,University of Chicago,60615,University Of Chicago Laboratory Schools,1362 E 59th St,Illinois,60637,I will not participate in school ensembles.,HannaSterba,368
+369,Stetson University,Cello,2017,Music and Psychology,4.0,African-American,Female,Benedictine University,Senior Account Executive,Federal Express,60532,Rosary,901 N. Edgelawn Dr,IL,60506,"Orchestra
+Other",TanyaCarey,369
+370,Michigan State University,French Horn,2017,Music education,,Caucasian,Male,Smile Today Dental,President,Brimardia Consulting Services,60070,Wheeling High School,900 S Elmhurst Rd,IL,60090,"Band
+Orchestra
+Other",ValerieWhitney,370
+371,University of Minnesota-Twin Cities,Bass,2017,Engineering,,Caucasian,Female,none,Regional Sales Mgr,Sprayway Inc.,60110,Jacobs High School,2601 Bunker Hill Dr,Il,60102,Orchestra,TimShaffer,371
+372,Haute école de musique de Lausanne (2018),Viola,2017,Les études d'alto performance (Viola performance),,Caucasian,Female,TCS Group,Practice Director,Figure8,60304,Oak Park and River Forest High School,201 N Scoville,Illinois,60302,Orchestra,IgorFedotoc,372
+373,colorado college,Cello,2017,biology,,Caucasian,Female,university of chicago,professor in ecology and evolution,university of chicago,60615,university of chicago laboratory schools,1362 E 59th street,il,60637,Other,andrewhesse,373
+374,Harvard College,Oboe,2017,Mathematics,,Asian,Female,,CTO,KForce,60605,Whitney M. Young Magnet High School,211 S. Laflin St.,IL,60607,Band,KatieAdams,374
+375,Stanford University,Cello,2017,Philosophy,9.0,Asian,Male,Lee's Cello Studio,Program Developer,ePan Software,60089,Adlai E. Stevenson High School,1 Stevenson Dr,IL,60069,Band,SoojeongLee,375
+376,"Jacobs School of Music, at Indiana University",Violin,2017,Violin performanxe,,Caucasian,Female,,VP Sales and Service,Aetna,60187,Glenbard West High S,670 Crescent Blvd.,IL,60137,Orchestra,DrostanHall,376
+377,Northern Illinois University,Percussion/Drums,2017,Music Performance with minor in Education,9.5,African-American,Male,Jones Lang LaSalle Americas Inc.,unemployed,unemployed,60462,Carl Sandburg High School,13100 S. LaGrange Rd,IL,60462,Band,RichardJanicki,377
+378,"IU Bloomington, Jacobs School of Music",Trumpet,2017,Music Performance and an undecided second major,,Caucasian,Male,Abbott Laboratories,,Abbvie,60035,Highland Park High School,433 Vine Ave,Illinois,60035,Band,ChrisO'hara,378
+379,Chicago College of Performing Arts at Roosevelt University,Clarinet,2017,Clarinet Performance,1.0,Caucasian,Female,Soccer 2000,Foreman,Continental Electrical Construction Company,60516,Downers Grove South High School,1436 Norfolk Street,IL,60516,"Band
+Orchestra
+Other",TrevorO'Riordan,379
+380,Illinois State University,Tuba,2017,Performance and Education,9.5,Latino,Male,housewife,laborer,Berlin Metals Inc.,60629,Lincoln Park,2001 N Orchard St,Illinois,60614,"Band
+Orchestra",ScottTegge,380
+381,Clarendon Hills Middle School,Cello,2017,none,9.0,Asian,Male,,Business Owner,Self-Employed,60521,Clarendon Hills Middle School,301 Chicago Ave,IL,60514,I will not participate in school ensembles.,TanyaCarey,381
+382,Emory University,Violin,2017,English,,Asian,Female,,Engineer,Navistar,60565,Naperville Central High School,440 Aurora Avenue,IL,60540,"Orchestra
+I will not participate in school ensembles.",JulieBickel,382
+383,Oberlin College and Conservatory,Oboe,2017,Oboe Performance and Classics,,Caucasian,Female,Wilmette District 39,Corporate Relations,Allstate Insurance,60091,New Trier High School,385 Winnetka Ave,Illinois,60093,"Band
+Orchestra",JenniferStucki,383
+384,UIUC,Oboe,2017,Music performance,,Asian,Male,Home,"Beijing, China",301 hospital,60523,Montini Catholic High School,19W070 16th St,IL,60148,Band,AnnaVelzo,384
+385,University of Illinois at Urbana-Champaign,Trombone,2017,Civil Engineering,,Caucasian,Male,none,Superintendent,Lombard K-8 School District 44,60585,Plainfield North High School,12005 S 248th Ave,Illinois,60585,"Band
+Other",ChrisDarwell,385
+386,Western Michigan University,Bass,2017,Jazz Studies,,Caucasian,Male,School District 146,Retired,Retired,60452,Tinley School High School,6111 175th Street,Illinois,60477,"Band
+Orchestra",DonnDesanto,386
+387,DePaul University,Oboe,2017,Oboe Performance,,,Male,Urgent Care Associaton Of America,Senior Database Analyst,College of DuPage,60137,Glenbard South,23W200 Butterfield Road,Illinois,60137,"Band
+Orchestra",DebStevenson,387
+388,Cornell University,Cello,2017,Biomedical Engineering,,"Asian
+Caucasian",Female,Rippeteau Architects,Attorney,Sawin Law Firm,60618,Northside College Prep,5501 N. Kedzie,IL,60625,Orchestra,AndreaNott,388
+389,Luther College,Percussion/Drums,2017,Music Education,,Caucasian,Male,homemaker,consultant,PWC,60137,Glenbard West High School,670 Crescent Blvd,Il,60137,"Band
+Orchestra
+Other",MichaelFolker,389
+390,University of Illinois in Urbana-Champaign,Flute,2017,Chemical Engineering,0.5,Asian,Female,Home,Business Manager,Univar,60564,Neuqua Valley High School,2360 95th Street,IL,60564,Band,AllisonDomanus-Brady,390
+391,IU Jacobs School of Music,Viola,2017,Bachelor of Music Viola,1.5,Caucasian,Male,William Harris Lee,editor,ePals,60605,,720 S Dearborn St,IL,60605,Other,StaciaSpencer,391
+392,San Francisco Conservatory of Music,Trumpet,2017,Trumpet performance,,Caucasian,Male,,Owner,"Stuedemann Environmental Consulting, LLC",60134,Geneva Community High School,416 McKinley Ave.,Illinois,60134,"Band
+Other",MattLee,392
+393,Eastman School of Music,Bass Trombone,2017,Performance,,"African-American
+Asian",Male,Sloan Valve,Training Officer,City of Chicago,60618,Jones College Prep,700 S. State Street,Illinois,60605,I will not participate in school ensembles.,TimothyRiordan,393
+394,University of Illinois at Urbana-Champaign,Violin,2017,Psychology on a Pre-Occupational Therapy Track,2.0,Asian,Female,Rush Copley,Engineer,Alcatel Lucent,60564,Neuqua Valley High School,2360 95th Street,Illinois,60564,Orchestra,KatyMeiste,394
+395,Northwestern University,French Horn,2017,French Horn Performance and Psychology,,Caucasian,Female,na,Managing Director,UBS,60201,ETHS,1600 Dodge St.,IL,60201,"Band
+Orchestra",NancyHinners,395
+396,Deferral from Northwestern University (begin fall 2018),Trumpet,2017,Music performance,4.0,Caucasian,Male,Self-Employed,"Principal Consultant, Process Safety",BakerRisk,61821,University of Illinois Laboratory High School,1212 W Springfield Ave,IL,61801,"Orchestra
+Other",RonaldRomm,396
+397,Oberlin College and Conservatory,Clarinet,2017,Clarinet Performance and Anthropology,,Caucasian,Female,Urban Institute,attorney,Arnstein and Lehr,60626,Walter Payton College Prep,1034 N. Wells,IL,7735340034,Other,TeresaReilly,397
+398,University of Illinois Urbana-Champaign,Trombone,2017,Music Education,9.0,Caucasian,Male,"Fay, Farrow & Associates, P.C.",IT,VeriClaim Inc,60564,Neuqua Valley High School,2360 95th Street,Illinois,60564,"Band
+Orchestra
+Other",MichaelOrenic,398
+399,University of Illinois at Urbana Champaign,Violin,2017,Undecided,,Caucasian,Female,Self,Portfolio Manager,XChange Technology,60302,Oak Park River Forest,201 North Scoville,IL,60302,Orchestra,AddisonTeng,399
+400,Mannes School of Music,Trumpet,2017,Trumpet Performance,,Caucasian,Male,unemployed,Director of Exhibits and Operations,Museum of Science and Industry,60625,Jones College Prep High School,700 Sout State Street,IL,60605,"Other
+I will not participate in school ensembles.",PaulLowry,400
+401,DePaul University School of Music,Violin,2017,Violin Performance,6.0,Asian,Male,Jewel Osco,social worker,Chinese mutual aid association,60018,Maine Township High School West,1755 S Wolf Rd,Illinois,60018,Orchestra,InjoiChoi,401
+402,University of Chicago,Violin,2017,,,Asian,Female,University of Chicago,Lecturer,Chicago State University,60615,Whitney M. Young Magnet High School,211 S. Laflin Street,IL,60607,I will not participate in school ensembles.,ClaraTakarabe,402
+403,University of Illinois at Urbana-Champaign,Violin,2017,Aerospace Engineering,,Caucasian,Male,,electrical engineer,Siemens,60540,Metea Valley HS,1801 N. Eola Rd.,Illinois,60502,Orchestra,DrewLecher,403
+404,University of Chicago,Violin,2017,Economics,,African-American,Female,University of Chicago,Data Manager,University of Illinois at Chicago,60637,University of Chicago Laboratory Schools,1362 E 59th St.,IL,60637,Other,YingChai,404
+405,University of Chicago,Cello,2017,Economics,,Asian,Male,Self-Employed,Business Development Specialist,Siemens,60067,William Fremd High School,1000 S Quentin Rd,Illinois,60067,Orchestra,BlakeBrasch,405
+406,Illinois State University,Bass,2017,Music Therapy,,Caucasian,Female,Dr.s Lederer and Margolis,Attorney,Law Firm of Neil S Zweiban,60089,Adlai E Stevenson HS,1 E Stevenson Lane,IL,60069,"Orchestra
+Other",PhilKrawchuk,406
+407,Harvard University,Violin,2018,Computer Science,,"Caucasian
+Latino",Female,University of Chicago,Research Associate (Associate Professor),University of Chicago,60637,University of Chicago Laboratory High School,1362 E. 59th St.,IL,60637,Other,LucindaAli-Landing,407
+408,College of the Holy Cross,Violin,2018,"Major-Muisc performance, Minor-Pre-Law",,Caucasian,Male,Self,Legal Counsel - Tax,McDermott Will & Emery,60521,Hinsdale Central High School,55th and Grant St.,IL,60521,Orchestra,HeatherHempel,408
+409,DePaul University,Bassoon,2018,"Bassoon performance, and pre health science double major",,Other,Female,Koraes Elementary School,Clergy,St. Spyridon Hellenic Orthodox Church,60462,Amos Alonzo Stagg High School,8016 W 111th Street,IL,60465,"Orchestra
+Other",HannaSterba,409
+410,Illinois Wesleyan University,Bassoon,2018,Biology - Pre-med,,"Caucasian
+Latino",Male,,Therapist,Child Serv,60527,Hinsdale South,7401 Clarendon Hills Rd,Illinoid,60561,Band,DianeRyan,410
+411,Princeton University,Oboe,2018,Computer Science,,Asian,Female,OSI,Scientist,Argonne National Lab,60564,Neuqua Valley High School,2360 95th Street,IL,60564,"Band
+Orchestra",DebStevenson,411
+412,San Francisco Conservatory of Music - Violin,Viola,2018,Violin Major Music Performance,,Latino,Female,united airlines,managing director,american express,60614,Chicago academy for the arts,Chicago avenue,Illinois,60614,"Orchestra
+Other",MinaZikri,412
+413,Carroll University ,Violin,2018,Major: Doctor of Physical Therapy Program; Minor: Music ,,Caucasian,Female,self-employed,teacher,retired,60439,Lemont High School,800 Porter,Illinois,60439,I will not participate in school ensembles.,LindaNussbaum,413
+414,Boston Conservatory,Cello,2018,Composition,,Caucasian,Male,---,Air Traffic Controller,Federal Aviation Administration,60178,Sycamore High School,427 Spartan Trail,IL,60178,Orchestra,LincSmelser,414
+415,Case Western Reserve University,French Horn,2018,Applied Mathematics with a minor in Music,,Caucasian,Male,,Managing Director of Municipal Underwriting,Keybanc Capital Markets,60502,Metea Valley High School,Eola Road,Illinois,60502,Band,DanO'Connell,415
+416,Oberlin Conservatory,Viola,2018,Viola Performance,,Caucasian,Female,Self-Employed,"Senior Manager, Regional Security",DeVry Education Group,60516,Downers Grove South High School,1436 Norfolk Street,IL,60516,Orchestra,MatthewMantell,416
+417,Northwestern University ,Bass Trombone,2018,Trombone performance ,,Caucasian,Male,East Troy Community School District,Senior Pastor,East Troy Bible Church,53120,East Troy High School,3128 Graydon Ave,Wisconsin,53120,Band,JeffTaylor,417
+418,Dartmouth College,Violin,2018,Undecided,3.0,Caucasian,Female,Self,Senior Production Controller,University of Chicago Press,60615,Whitney M. Young Magnet High School,211 S Laflin,IL,60607,Orchestra,StefanHersh,418
+419,Louisiana State University,Flute,2018,Flute Performance and Music Business,,Caucasian,Female,Morgan Myers,Regional Sales Manager,Alpha Technologies,60187,Wheaton North High School,701 Thomas St,IL,60187,Band,ChristaKrause,419
+420,"Frost School of Music, University of Miami",Trumpet,2018,Trumpet Performance,4.0,Caucasian,Male,Skokie School District,Driver,Central transport Corporation,60076,Niles North High School,9800 Lawler Ave.,IL,6007,"Band
+Orchestra
+Other",TravisHeath,420
+421,Northwestern University,Alto Saxophone,2018,Saxophone Performance and History,7.0,Caucasian,Male,Self,Reporter,Chicago Tribune/Tronc,60126,York Community High School,355 W. St. Charles Rd,IL,60126,"Band
+Other",MarkColby,421
+422,Stanford University,Violin,2018,Computer Science + Linguistics,,,Male,home,Associate General Counsel,Old Republic Professional,60660,Northside College Prep,5501 N. Kedzie Ave.,IL,60625,I will not participate in school ensembles.,PaulVanderwerf,422
+423,Northwestern University ,Violin,2018,Biology and Global Health,,"Asian
+Caucasian",Female,Northwestern,None,None,60614,Jones College Prep,700 S. State St,IL,60605,I will not participate in school ensembles.,CorinaLobont,423
+424,DePaul University,Bass,2018,Major in Bass Performance,,Caucasian,Male,New Trier High School,Principal,Glenbrook North High School,60062,Glenbrook North,2300 Shermer Rd,IL,60062,"Band
+Orchestra",JeremyAttanaseo,424
+425,University of Wisconsin Whitewater,Trumpet,2018,Music education major ,,Caucasian,Female,Advocate Sherman,Vice President Mortgage control,JP Morgan,60013,Cary-Grove High School,2208 Three Oaks Rd.,IL,60013,"Band
+Other",RogerReupert,425
+426,Yale University,Cello,2018,Neuroscience and/or Music,,Caucasian,Male,University of Chicago/Chicago Biomedical Consortium (CBC),Professor,University of Chicago,60615,The University of Chicago Laboratory Schools,1362 E. 59th St.,IL,60637,Orchestra,KarenBasrak,426
+427,Vanderbilt University ,Violin,2018,Molecular/Cellular Biology and Violin Performance ,,Caucasian,Female,Clearbrook,na,na,60201,Evanston Township High School,1600 Dodge ave,IL,60201,Orchestra,DesireeRuhstrat,427
+428,Eastman School of Music and University of Rochester ,Oboe,2018,Duel degree in oboe performance and Spanish language ,,Caucasian,Female,northshore university healthsystem,counselor,kymm,60015,Deerfield High School,1959 Waukegan Rd,IL,60015,"Band
+Orchestra",EricaAnderson,428
+429,University of North Texas ,Trumpet,2018,Jazz Studies / Trumpet ,,Caucasian,Male,Nothing Bundt Cakes,President/Owner,"SGW Teleprompter Solutions, Inc",60525,Lyons Township High School,100 S. Brainard Ave.,IL,60525,"Band
+Other",RogerIngram,429
+430,Harvard University,Violin,2018,Undecided,,Asian,Male,Home,Engineer,Philips,60540,Naperville High School,899 N Mill St.,IL,60563,Other,DavidDai,430
+431,Oberlin Conservatory,Bassoon,2018,Bassoon Performance,,Caucasian,Female,Massage Envy - Naperville South,Vice President of Philanthropy,Northwestern Memorial Healthcare,60544,Plainfield North High School,12005 S 248th Avenue,Illinois,60585,Band,KimRichter,431
+432,University of Notre Dame,Cello,2018,B. Architecture with possible Creative Writing minor,,Caucasian,Female,self,Principal,Stantec,60660,Whitney M Young Magnet High School,211 S Laflin St,IL,60607,"Orchestra
+Other",DavidHoppe,432
+433,Bowdoin College,Harp,2018,"Physics, Math, Music",,,Female,,Partner,DLA Piper,60045,Regina Dominican,801 Locust,Illinois,60091,Orchestra,FayeSeeman,433
+434,Northwestern University,Clarinet,2018,Clarinet Performance,1.0,Asian,Male,Self Employed,Fire Protection Engineer,Jensen Hughes,60564,Neuqua Valley Highschool,2360 95th St,Illinois,60564,Band,StevenCohen,434
+435,Columbia University,Violin,2018,"Computer Science, Biomedical Engineering",,Asian,Male,,Architect,Haenglim,60089,Adlai E. Stevenson,One Stevenson Drive,IL,60069,Orchestra,BettyHaag-Kuhnke,435
+436,University of Michigan Ann Arbor,Oboe,2018,Oboe Performance ,,African-American,Female,unemployed,self employed,self employed,60446,Plainfield East High School,12001 Naperville Rd,IL,60585,Band,LisaLarsen,436
+437,Clark Atlanta University ,Viola,2018,Psychology/Criminal Justice/Minor Music,,African-American,Female,Jackson Park Hospital,,,60649,Chicago High School For the Arts,2714 W. Augusta,Ill,60622,Orchestra,RobertFisher,437
+438,Brown University ,Viola,2018,"Business, Entrepreneurship, and Organizations ",9.0,Asian,Female,University of Illinois at Chicago,,,60521,Hinsdale Central High School,5500 S Grant Street,IL,60521,Orchestra,NanZhou,438
+439,Vanderbilt University,Viola,2018,Economics and Viola Performance,,Asian,Female,Lewis University,owner,self employer,60061,Vernon Hills High School,145 Lakeview Pkwy,IL,60061,Orchestra,DesireeRuhstrat,439
+440,Brown University,Trombone,2018,Undecided,,Caucasian,Male,,Attorney/Partner,Sidley Austin,60521,Hinsdale Central High School,5500 S Grant St,IL,60521,Band,TimothyRiordan,440
+441,Emory University,Clarinet,2018,"Biology & Music Majors, Sociology Minor",,"Asian
+Caucasian",Female,,Manager,Eastman Chemical,60614,Walter Payton College Prep,1034 N Wells St,IL,60610,I will not participate in school ensembles.,TeresaReilly,441
+442,Princeton University,Violin,2018,Music and Mathematics,9.0,Caucasian,Female,Governors State University,unknown,unknown,60430,Homewood-Flossmoor High School,999 Kedzie Ave,IL,60422,Orchestra,CarlJohnston,442
+443,Northwestern University,Clarinet,2018,Clarinet Performance,4.0,Caucasian,Male,None,Engineer,CSL Bering,60448,Lincoln-Way East HS,201 Colorado Blvd,IL,60423,"Band
+Other",PatrickRehker,443
+444,University of Chicago,Bass,2018,Music,,"Caucasian
+Other",Female,Inteliquent,Sommelier,Volare Restaurant,60622,Lane Tech High School,2501 W Addison St,IL,60618,"Band
+Orchestra
+Other",HansPeterman,444
+445,Colorado State University,Cello,2018,Environmental engineering ,,"Caucasian
+Other",Male,Edward Hospital,Guidance Counselor,Hinsdale South High School,60565,Naperville Central High School,1120 S. Austin Blvd.,IL,60304,I will not participate in school ensembles.,AlexRevoal,445
+446,University of Illinois- Urbana Champaign,Flute,2018,Music Performance ,9.0,Caucasian,Female,Self Employed,,,60061,Adlai E. Stevenson High School,1 Stevenson Drive,IL,60069,"Band
+Orchestra",LaurelKaiser,446
+447,University of Illinois at Urbana-Champaign,Violin,2018,Computer Science,,Caucasian,Male,,Loan Officer,Huntington Bank,60467,Carl Sandburg High School,13300 S. LaGrange Rd.,IL,60462,"Orchestra
+Other",MattMantell,447
+448,University of Illinois Chicago,Violin,2018,Neuroscience,6.0,Latino,Female,unemployed,Field Engineer,T-Mobile,60633,Chiarts,2714 W. Augusta Blvd.,Illinois,60622,"Orchestra
+Other",EmilyNash,448
+449,UIUC,Percussion,2018,Music Composition,,Asian,Male,Cook County Health & Hospitals System,,unemployed,60148,Glenbard East HS,1014 S Main St,IL,60148,"Band
+Orchestra
+Other",BrandonRunyon,449
+450,Michigan State University,Bass,2018,"Jazz Studies, Music Business",4.0,"Latino
+Other",Female,Chicago Public Schools,Telecommunications,Verizon,60638,Whitney M. Young Magnet High School,211 S. Loomis,IL,60607,"Band
+Other",KatieErnst,450
+451,Loyola University ,Violin,2018,Minor: peace studies major:unqdecided ,,Latino,Female,Raby Institute,CFO,raby Institute,60605,Jones College Prep,700 South State Street,IL,60605,Orchestra,EliseDalleska,451
+452,Wheaton College,French Horn,2018,French Horn Performance,2.0,Caucasian,Male,Self-Employed,Senior Engineer,S&C Electric Company,60076,Niles North High School,9800 Lawler Ave.,IL,60077,"Band
+Orchestra",DanO'Connell,452
+453,Mount Holyoke College,Flute,2018,"English, Music",,Caucasian,Female,Serendipity Consulting,Senior Architect,Gogo,60637,Walter Payton College Prep,1034 N Wells St,IL,60610,I will not participate in school ensembles.,IreneClaude,453
+454,Eastman School of Music,Viola,2018,Viola Performance ,,Caucasian,Male,St. Charlles School District 303,engineer,Nokia,60177,St. Charles North,255 Red Gate Road,IL,60174,"Orchestra
+Other",CharlesPikler,454
+455,DePaul University ,Drum Set,2018,Jazz Studies,9.0,Latino,Male,Westin Hotel Lombard,,,60101,Addison Trail High School,213 N Lombard Rd,Illinois,60101,"Band
+Other",ErnieAdams,455
+456,University of Illinois Urbana-Champaign ,Viola,2018,Music Education,,Caucasian,Male,Northwestern medicine,editor,Daily Herald,60137,Glenbard South,23W200 Butterfield Rd,IL,60137,Orchestra,ClaraTakarabe,456
+457,Northwestern University,Viola,2018,Viola performance/journalism,4.0,,Female,na,,,60490,Neuqua Valley High School,2360 95th Street,Illinois,60564,I will not participate in school ensembles.,DesireeRuhstrat,457
+458,Michigan State University ,Oboe,2018,Oboe Performance,9.0,Asian,Female,none,Accountant,Brave Hearts,60060,Mundelein High School,1350 W Hawley Street,Illinois,60060,"Band
+Other",MarisaaLefevre,458
+459,Peabody Institute of The Johns Hopkins University,Trumpet,2018,Major: Trumpet Performance/Music Education ,,Caucasian,Male,Deer Park School,regional sales manager,Peoria Pump Inc.,61325,Streator Township High School,202 W Lincoln Ave,Illinois,61364,Band,RyanBerndt,459
+460,Augustana College,Steel Pan,2018,"Pre-Occupational Therapy and Music, Minor in Spanish",,Caucasian,Female,Northerly Outfitters,Business Continuity Manager,VW Credit/Audi Financial,60030,Grayslake Central High School,400 North Lake Street,IL,60030,Band,BenWahlund,460
+461,High Point University,French Horn,2018,Double Major: Business Administration and Music,,Caucasian,Male,SAHM,VP of Sales,SET Environmental Inc,60189,Timothy Christian High School,188 West Butterfield Road,IL,60126,Band,ChrisScotellaro,461
+462,Urbana Champaign,"Clarinet,Alto Saxophone",2018,Aerospace engineering,,Asian,Male,Fellowship Music Academy,Senior UI designer,Salesforce,60192,William Fremd Highschool,1000 S Quentin rd,Illinois,60067,"Band
+Orchestra",KeunjinJung,462
+463,Lawrence University,Trombone,2018,Music Performance,7.0,Latino,Male,South Holland Public Library,Technician,"T and T Business, Inc",60438,Thornton Fractional South High,18500 Burnham Ave,IL,60438,Band,TimothyRiordan,463
+464,DePaul University,Viola,2018,Viola Performance,6.0,Caucasian,Male,none,truck driver,self-employed,60442,Lincoln-Way West High School,21701 S. Gougar Rd,IL,60451,Orchestra,MattMantell,464
+465,Carnegie Mellon University,Flute,2018,Major in flute performance,,Caucasian,Female,Stay at home mom,Money Manager,LSV Asset Management,60126,York community high school,355 W st charles rd,IL,60126,"Band
+Orchestra
+Other",HidekoAmano,465
+466,Vanderbilt University ,French Horn,2018,Music Education,3.0,Caucasian,Female,Jennifer Walters,States Attorney Prosecutor,Cook County States Attorney,60565,Naperville Central High School,440 West Aurora Avenue,IL,60540,Band,SusanOzsvath,466
+467,Harvard University,Flute,2018,Neurobiology,,Asian,Female,Amita Health,Physician,St Bernard Hospital,60637,University of Chicago Laboratory Schools,5836 S Kimbark Ave,Illinois,60637,Other,SusanLevitin,467
+468,Loyola University Chicago,French Horn,2018,Major in Neuroscience,,Asian,Male,Amita Health,Department Manager,Walmart,60559,Hinsdale Central,5500 S Grant St,IL,60521,"Band
+Orchestra
+Other",AmandaKarwoske,468
+469,Stanford University,Violin,2018,Biomedical Computation,,Asian,Male,"AbbVie, Inc.",Associate Professor,University of Illinois at Chicago (UIC),60126,Illinois Mathematics and Science Academy (IMSA),1500 Sullivan Rd,IL,60506,Orchestra,MichaelHining,469
+470,The Juilliard School,French Horn,2018,Horn Performance,,Caucasian,Male,DePaul University School of Music,principal clarinet,Chicago Symphony Orchestra,60091,New Trier High School,385 Winnetka Avenue,Illinois,60093,"Band
+Orchestra",DanielGingrich,470
+471,Eastman School of Music,Bassoon,2018,Bassoon Performance,,Caucasian,Male,Skokie Park District,Lead Software Engineer,Schweitzer Engineering Laboratories,60077,Niles West High School,5701 Oakton St,Illinois,60077,"Band
+Orchestra
+Other",HannaSterba,471
+472,Duke University,Violin,2018,Applied Math/Economics,,Asian,Male,Discover,Senior Director,Cambium Network,60045,Adlai E. Stevenson High School,1 Stevenson Drive,Illinois,60069,Orchestra,DesireeRuhstrat,472
+473,University of Illinois at Urbana-Champaign ,Violin,2018,Music performance ,,Asian,Female,none,programmer,Bunzl,60053,Niles West High School,5701 Oakton St,IL,60077,Orchestra,SharonChang,473
